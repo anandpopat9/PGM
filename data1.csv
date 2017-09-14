@@ -1,0 +1,1011 @@
+Mus,Pop,Metal or Hardrock,Movies,Horror,Romantic,Sci-fi,Politics,Mathematics,Internet,Art exhibitions,Religion,Passive sport,Fun with friends,Fear of public speaking,Smoking,Alcohol,Healthy eating,Thinking ahead,Final judgement,Reliability,Fake,Criminal damage,Self-criticism,Empathy,Giving,Loneliness,Changing the past,God,Number of friends,Socializing,Getting angry,Public speaking,Happiness in life,Personality,Internet usage,Branded clothing,Entertainment spending,Gender,Left - right handed,Education,Music1
+1,1,0,1,1,1,1,0,1,1,0,0,0,1,0,never smoked,drink a lot,1,0,1,1,0,0,0,1,1,1,0,0,1,1,0,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,1,1,0,1,1,1,1,1,0,0,0,1,1,never smoked,drink a lot,1,1,0,1,0,0,1,0,0,0,1,0,1,1,1,1,1,1,few hours a day,0,1,female,right handed,college/bachelor degree,1
+1,1,1,1,1,0,1,0,1,1,1,1,1,1,0,tried smoking,drink a lot,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,0,0,1,1,1,1,1,1,1,1,1,0,0,1,former smoker,drink a lot,1,1,0,1,0,1,1,1,0,1,1,1,0,0,1,1,0,0,most of the day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,1,0,1,1,0,0,0,1,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,0,1,1,1,0,1,1,0,1,0,0,1,1,1,never smoked,never,0,1,0,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,1,0,0,0,0,0,0,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,less than an hour a day,0,1,female,right handed,secondary school,1
+1,1,0,1,1,0,1,1,0,1,0,0,1,1,1,current smoker,drink a lot,0,1,1,1,0,0,1,0,1,0,0,1,1,0,0,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,1,1,0,1,1,0,0,0,0,0,1,1,1,tried smoking,social drinker,0,0,1,1,0,0,1,1,0,1,1,1,0,1,1,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,0,1,0,1,0,1,1,1,1,1,1,1,1,never smoked,drink a lot,1,1,1,1,0,0,1,1,1,0,0,1,1,1,1,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,0,1,1,1,1,1,0,1,0,0,1,1,0,current smoker,social drinker,1,1,1,1,0,0,1,1,1,0,1,1,1,1,0,1,1,1,less than an hour a day,0,1,female,left handed,secondary school,1
+1,0,0,1,1,1,0,1,0,1,1,0,1,1,1,tried smoking,never,1,0,0,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,few hours a day,0,1,female,right handed,primary school,1
+1,1,1,1,0,1,0,1,0,1,0,0,1,1,0,tried smoking,social drinker,1,1,0,1,0,0,1,1,0,1,1,0,1,0,1,1,1,1,few hours a day,0,0,female,right handed,college/bachelor degree,1
+1,1,0,1,1,1,0,0,0,1,1,0,1,1,1,never smoked,social drinker,1,1,1,1,0,0,1,1,1,0,0,1,1,1,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,0,1,0,1,0,0,0,1,1,0,1,1,1,current smoker,social drinker,0,1,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,most of the day,0,1,female,right handed,college/bachelor degree,1
+0,1,1,1,1,1,1,1,1,1,1,0,1,1,0,former smoker,social drinker,1,1,0,1,0,1,1,1,1,1,1,0,1,0,1,1,0,1,few hours a day,0,1,male,right handed,secondary school,0
+1,1,0,1,1,1,0,0,0,1,0,0,1,1,1,current smoker,drink a lot,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,0,0,1,0,0,0,1,1,tried smoking,social drinker,1,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,0,0,few hours a day,0,,female,right handed,secondary school,1
+1,1,1,1,0,1,1,1,1,1,0,0,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,0,1,0,1,1,1,0,1,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,0,1,1,0,0,1,1,1,1,0,0,1,1,1,former smoker,drink a lot,1,1,0,1,0,1,1,1,0,0,1,0,1,0,0,1,1,1,few hours a day,1,1,male,left handed,secondary school,1
+1,0,1,1,1,1,1,1,0,1,0,0,1,1,0,never smoked,never,0,0,0,0,0,1,1,1,1,0,1,1,1,1,1,1,1,1,few hours a day,1,0,male,right handed,secondary school,1
+1,0,1,1,1,0,1,1,1,1,0,0,1,1,0,tried smoking,social drinker,1,0,0,1,0,1,1,0,0,1,0,1,1,1,1,0,1,1,few hours a day,0,0,male,left handed,secondary school,1
+1,1,0,1,0,1,1,0,0,,0,1,1,1,1,tried smoking,social drinker,1,1,1,1,1,0,0,1,1,1,1,1,0,1,0,1,1,1,few hours a day,0,0,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,1,0,1,0,0,0,1,1,tried smoking,social drinker,1,1,1,1,1,0,1,1,0,1,1,0,1,0,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,0,1,0,1,1,0,1,1,1,tried smoking,never,1,1,0,1,0,1,1,1,1,1,1,1,0,1,1,1,0,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,0,0,1,1,0,0,1,1,0,tried smoking,social drinker,1,1,0,1,0,0,1,1,1,0,1,0,1,0,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,1,1,1,few hours a day,1,1,female,left handed,college/bachelor degree,1
+1,0,0,1,0,1,1,1,0,1,0,,1,1,0,never smoked,social drinker,1,1,1,1,0,0,1,1,1,1,0,1,1,1,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,0,0,0,1,0,0,1,1,0,former smoker,social drinker,1,1,0,1,0,1,0,1,1,1,0,0,1,1,0,1,1,1,few hours a day,1,1,male,left handed,secondary school,1
+1,1,0,1,1,1,0,0,0,1,1,0,1,1,1,tried smoking,social drinker,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,1,0,1,0,0,0,1,1,former smoker,drink a lot,1,1,1,1,0,1,1,0,1,0,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,1,0,0,0,1,1,0,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,0,1,1,0,1,1,1,1,1,1,1,1,less than an hour a day,1,0,female,right handed,secondary school,1
+1,1,1,1,1,1,0,1,0,1,1,0,0,1,0,current smoker,social drinker,1,0,0,0,0,1,0,1,0,0,0,1,1,1,0,1,1,1,few hours a day,0,1,female,left handed,secondary school,1
+1,1,0,1,1,1,0,1,0,1,1,0,1,1,1,tried smoking,social drinker,1,0,0,1,0,0,1,1,1,1,0,0,1,1,0,1,1,1,few hours a day,0,0,female,right handed,masters degree,1
+1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,0,1,0,1,1,1,1,0,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,0,0,1,0,1,1,1,0,tried smoking,social drinker,1,0,0,1,0,0,0,1,1,1,0,1,1,0,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,never smoked,social drinker,0,1,1,1,1,0,1,1,1,0,0,0,0,0,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,0,1,1,1,0,1,1,1,1,0,1,1,1,0,former smoker,social drinker,1,1,0,1,0,1,1,1,1,1,1,0,0,0,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,1,1,1,1,1,1,0,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,0,0,0,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,never smoked,never,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,0,1,0,1,0,0,0,1,0,0,1,0,1,never smoked,social drinker,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,0,1,1,0,0,1,1,1,1,0,1,0,1,0,tried smoking,social drinker,1,1,0,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,few hours a day,0,0,male,right handed,college/bachelor degree,1
+1,1,1,1,1,1,1,0,1,1,0,0,1,1,1,never smoked,never,1,1,1,1,0,0,1,1,1,1,0,1,1,0,0,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,0,1,0,1,1,0,0,1,1,0,1,1,0,tried smoking,drink a lot,1,1,0,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,most of the day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,current smoker,social drinker,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,1,few hours a day,1,1,female,right handed,masters degree,1
+1,1,0,1,1,0,1,1,1,1,0,1,1,1,1,never smoked,social drinker,1,1,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,0,most of the day,1,1,male,right handed,masters degree,1
+1,1,1,1,1,1,1,0,0,,1,1,1,1,0,current smoker,social drinker,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,0,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,1,0,0,0,0,1,0,0,0,1,1,tried smoking,social drinker,1,1,0,1,0,0,1,1,1,0,0,0,1,0,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,0,0,1,0,1,0,0,1,1,0,current smoker,social drinker,1,1,1,1,1,0,1,1,1,1,0,0,0,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,0,0,1,0,0,0,1,1,tried smoking,social drinker,0,0,0,1,0,0,1,1,1,1,1,0,1,0,1,1,1,1,few hours a day,0,1,female,right handed,primary school,1
+1,1,0,1,0,1,0,0,1,1,1,1,1,1,1,tried smoking,social drinker,1,1,0,1,1,1,1,1,0,1,0,1,1,0,1,1,1,1,few hours a day,1,0,female,right handed,college/bachelor degree,1
+1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,never smoked,never,1,1,1,1,0,0,1,1,1,0,0,1,1,1,1,1,1,1,less than an hour a day,0,0,female,right handed,secondary school,1
+1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,current smoker,social drinker,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,0,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,0,1,1,1,0,1,0,1,1,1,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,1,1,less than an hour a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,1,0,1,1,0,1,1,0,current smoker,social drinker,1,1,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,few hours a day,0,0,female,right handed,college/bachelor degree,1
+1,1,1,1,0,1,0,0,0,1,1,0,0,1,1,current smoker,drink a lot,1,1,0,1,1,0,1,1,0,1,1,1,1,0,1,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,current smoker,drink a lot,1,1,1,1,0,0,1,1,1,1,0,0,1,1,1,1,1,1,few hours a day,1,1,female,left handed,secondary school,1
+1,0,0,1,1,1,1,0,0,1,1,1,1,1,1,current smoker,drink a lot,1,1,0,1,0,0,1,1,1,0,1,1,1,0,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,0,1,0,1,1,0,0,1,1,1,never smoked,social drinker,1,1,1,1,1,1,1,1,0,1,1,0,1,1,0,1,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,1,1,1,1,1,1,1,0,1,1,0,0,1,1,current smoker,drink a lot,1,1,0,1,1,0,1,0,0,1,1,1,0,0,0,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,tried smoking,social drinker,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,1,1,0,most of the day,0,1,male,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,1,1,1,1,0,1,1,0,current smoker,social drinker,1,1,0,1,0,1,1,1,1,1,1,0,1,1,1,0,1,1,few hours a day,1,1,male,left handed,secondary school,1
+1,1,1,1,1,0,1,1,1,1,0,0,1,1,1,never smoked,social drinker,1,1,1,1,0,1,1,1,1,0,1,0,1,1,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,0,0,1,1,0,1,1,,1,1,1,1,1,1,tried smoking,social drinker,1,1,0,1,0,1,0,0,1,0,0,1,1,0,0,1,1,1,few hours a day,1,,male,right handed,college/bachelor degree,1
+1,1,0,1,0,1,0,0,0,1,0,0,0,1,1,former smoker,social drinker,1,1,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,most of the day,1,1,female,right handed,primary school,1
+1,1,1,1,1,1,1,1,0,1,0,0,1,1,1,tried smoking,social drinker,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,left handed,primary school,1
+1,1,1,1,1,1,1,0,1,1,0,0,1,1,1,tried smoking,social drinker,1,1,0,0,1,0,1,1,1,1,1,1,1,1,0,1,1,1,less than an hour a day,1,0,male,right handed,secondary school,1
+1,1,0,1,1,1,0,1,1,1,0,0,0,1,0,never smoked,never,1,1,1,1,0,0,1,1,1,0,0,1,1,1,1,1,1,1,few hours a day,0,1,female,right handed,college/bachelor degree,1
+1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,tried smoking,drink a lot,0,0,1,1,0,0,1,0,1,1,1,1,0,0,1,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,0,0,0,1,1,0,0,1,1,tried smoking,social drinker,0,1,0,1,1,0,1,0,1,1,1,1,1,1,1,0,1,1,most of the day,1,1,female,left handed,secondary school,1
+1,1,0,1,0,1,1,1,0,1,0,0,0,1,1,former smoker,social drinker,1,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,1,0,1,0,1,0,1,0,1,0,0,0,1,0,tried smoking,never,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,0,0,male,left handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,0,0,1,1,1,former smoker,social drinker,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,0,1,1,1,1,1,0,1,0,1,1,1,1,former smoker,social drinker,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,0,0,1,0,0,1,1,0,1,1,0,0,1,0,tried smoking,social drinker,1,1,1,1,0,1,1,0,0,1,1,1,0,0,1,1,1,1,few hours a day,1,0,male,right handed,masters degree,1
+1,0,1,1,0,0,0,1,0,1,1,1,1,1,0,tried smoking,drink a lot,1,1,1,1,0,0,1,1,0,0,0,1,1,1,0,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,0,0,1,0,1,1,1,0,1,0,0,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,0,1,0,0,0,1,1,1,1,1,1,1,few hours a day,0,0,male,right handed,secondary school,1
+1,1,0,1,0,1,0,0,0,1,1,0,1,1,1,tried smoking,social drinker,1,1,0,1,0,0,1,1,1,0,1,0,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,0,0,1,1,1,0,0,1,1,never smoked,never,1,1,0,1,0,0,1,1,1,0,0,0,1,1,0,1,1,1,few hours a day,0,0,female,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,1,0,1,0,0,1,1,1,former smoker,social drinker,1,0,1,1,1,0,1,1,0,1,0,0,1,0,0,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,0,1,1,1,1,1,0,1,0,0,1,1,1,tried smoking,social drinker,1,0,0,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,1,0,1,1,0,tried smoking,social drinker,1,1,1,1,0,1,1,1,1,1,0,0,1,1,0,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,0,1,1,0,0,1,0,0,1,1,1,1,1,1,never smoked,social drinker,1,0,0,1,0,1,1,0,0,1,1,1,0,0,1,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,1,1,1,1,0,0,0,1,1,0,,1,1,former smoker,social drinker,1,1,1,1,0,0,0,1,1,0,1,1,1,1,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,0,1,1,1,0,1,1,0,1,1,1,1,1,1,former smoker,drink a lot,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,tried smoking,social drinker,1,1,0,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,most of the day,1,1,male,right handed,college/bachelor degree,1
+1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,current smoker,social drinker,1,1,1,1,1,0,1,1,0,1,1,1,1,1,0,1,1,1,few hours a day,1,0,male,right handed,masters degree,1
+1,1,0,1,0,1,0,1,,1,0,0,0,1,0,former smoker,social drinker,1,1,0,1,0,0,1,1,1,0,0,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,1,0,0,1,0,1,1,1,0,1,1,former smoker,drink a lot,1,1,0,1,0,0,1,1,1,1,0,1,1,1,1,1,0,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,0,1,0,1,0,1,1,1,0,1,1,tried smoking,social drinker,1,1,1,1,1,0,1,1,0,1,1,1,1,0,1,1,1,1,few hours a day,0,0,female,right handed,masters degree,1
+1,1,0,1,0,1,0,0,0,1,0,1,1,1,1,tried smoking,social drinker,1,0,1,1,0,0,1,1,1,1,1,1,1,0,1,0,1,1,most of the day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,0,0,,0,0,1,1,0,never smoked,social drinker,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,0,0,1,0,1,1,0,1,1,1,1,0,1,0,never smoked,social drinker,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,0,1,1,few hours a day,1,0,female,right handed,college/bachelor degree,1
+1,1,1,1,1,0,1,0,1,1,1,0,1,1,0,current smoker,drink a lot,0,0,0,0,0,1,,0,0,1,0,1,1,1,0,0,1,1,few hours a day,1,1,male,right handed,masters degree,1
+1,1,0,1,1,0,1,0,0,1,0,0,0,1,1,tried smoking,social drinker,0,1,0,1,0,1,0,0,0,0,1,0,0,1,1,1,1,1,most of the day,1,0,male,right handed,secondary school,1
+1,1,0,1,1,1,1,1,0,1,1,0,1,1,0,tried smoking,drink a lot,0,1,0,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,0,1,0,0,0,1,0,0,0,0,0,0,1,1,former smoker,drink a lot,0,1,1,1,0,0,1,1,0,0,1,1,1,0,0,1,1,1,few hours a day,0,1,male,right handed,college/bachelor degree,1
+1,0,0,1,0,1,1,0,1,1,0,1,0,1,0,tried smoking,drink a lot,1,0,0,1,1,1,1,1,0,1,1,1,0,1,0,0,1,1,most of the day,0,1,male,right handed,primary school,1
+1,1,0,1,1,0,1,0,0,1,1,0,1,1,0,former smoker,drink a lot,1,1,1,1,0,0,1,1,0,1,0,1,1,1,0,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,1,0,0,1,1,0,0,1,1,1,never smoked,social drinker,1,1,1,1,0,0,1,1,1,1,0,1,0,1,1,1,1,1,less than an hour a day,0,0,female,left handed,secondary school,1
+1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,tried smoking,drink a lot,1,1,1,1,0,0,0,1,1,1,0,1,1,1,0,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,0,1,1,0,1,1,1,0,1,0,1,1,1,1,tried smoking,social drinker,1,1,1,0,0,0,1,1,0,1,1,1,1,1,1,1,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,0,0,1,1,1,1,1,1,1,1,0,0,1,1,tried smoking,social drinker,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,1,0,1,0,1,1,1,0,tried smoking,drink a lot,1,1,1,1,0,0,1,1,0,0,0,1,0,1,0,0,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,0,1,1,1,0,1,1,0,1,1,1,1,1,0,tried smoking,drink a lot,0,1,0,1,1,0,1,1,0,0,0,0,1,1,0,0,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,0,1,1,0,1,0,0,0,1,0,1,1,1,0,never smoked,social drinker,1,1,1,1,0,1,1,1,1,0,1,1,0,1,0,1,1,1,few hours a day,0,0,male,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,1,1,1,0,0,1,1,1,former smoker,social drinker,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,0,1,1,0,0,0,1,0,1,1,1,0,1,0,tried smoking,social drinker,1,1,0,1,0,1,1,1,1,0,0,1,1,0,1,1,1,1,less than an hour a day,1,1,female,right handed,secondary school,1
+1,0,1,1,1,1,1,0,1,1,0,0,1,0,0,never smoked,social drinker,1,0,0,1,1,0,0,1,0,1,1,1,0,0,1,0,0,1,few hours a day,1,0,female,right handed,primary school,1
+1,1,1,1,0,0,1,1,0,1,0,1,0,1,1,tried smoking,drink a lot,0,1,1,0,1,1,1,1,1,1,1,0,1,0,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,1,1,0,0,1,0,0,0,1,0,former smoker,drink a lot,1,1,1,1,0,1,1,1,1,1,0,1,1,1,0,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,0,1,0,0,0,1,1,1,0,1,1,tried smoking,social drinker,1,0,1,0,1,1,1,1,0,1,1,1,1,0,1,1,0,0,most of the day,0,0,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,0,0,1,1,1,1,1,1,never smoked,social drinker,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,less than an hour a day,0,0,female,left handed,secondary school,1
+1,1,0,1,1,1,0,0,0,1,0,0,1,1,0,former smoker,social drinker,1,1,1,1,0,0,0,0,0,0,1,0,1,1,1,0,1,1,few hours a day,1,0,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,0,0,0,1,1,0,0,1,1,former smoker,drink a lot,1,1,0,1,0,0,1,1,0,0,0,0,1,1,1,1,1,1,less than an hour a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,1,0,1,1,0,1,1,0,tried smoking,social drinker,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,0,0,1,0,0,0,1,1,former smoker,social drinker,0,1,1,1,0,0,1,1,1,1,1,1,0,0,1,1,0,0,few hours a day,0,0,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,0,0,1,1,0,0,0,0,1,never smoked,never,0,1,1,1,1,0,1,1,1,1,1,1,0,0,0,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,0,1,1,0,0,1,1,1,1,0,1,1,1,never smoked,social drinker,1,1,0,1,0,0,1,1,0,1,0,0,0,1,0,1,1,1,few hours a day,0,0,male,right handed,college/bachelor degree,1
+1,1,0,1,0,1,0,0,1,1,0,0,0,1,1,tried smoking,social drinker,1,1,1,1,0,1,1,1,0,0,1,1,0,0,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,0,1,1,0,1,0,1,1,0,0,0,0,1,0,never smoked,drink a lot,0,1,0,1,1,0,1,1,0,0,0,0,0,1,0,0,1,1,most of the day,0,1,male,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,1,1,1,0,0,1,1,1,current smoker,social drinker,0,1,0,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,0,0,1,1,0,0,0,0,1,1,1,1,1,0,tried smoking,social drinker,1,0,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,few hours a day,0,1,female,right handed,masters degree,1
+1,1,1,1,0,0,0,0,0,1,1,1,0,1,1,tried smoking,never,1,1,0,1,0,0,0,1,1,1,0,1,1,0,0,0,1,1,few hours a day,0,1,female,left handed,secondary school,1
+1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,current smoker,social drinker,1,1,0,1,0,0,1,1,1,0,0,0,1,0,0,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,0,1,1,0,1,1,1,0,1,1,0,1,1,1,never smoked,social drinker,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,0,1,0,1,0,0,0,1,0,0,0,1,1,tried smoking,social drinker,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,tried smoking,social drinker,0,1,1,1,0,0,1,1,0,1,1,1,1,1,0,0,1,1,most of the day,0,1,female,right handed,primary school,1
+1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,never smoked,never,1,0,0,1,0,0,1,1,1,1,1,1,0,1,1,0,1,1,few hours a day,1,1,female,left handed,primary school,1
+1,1,0,1,0,1,0,0,0,1,1,1,0,1,1,never smoked,social drinker,1,0,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,less than an hour a day,1,1,female,right handed,secondary school,1
+1,0,1,1,1,0,1,1,0,1,1,1,1,1,1,,,1,1,0,1,0,0,1,1,1,0,1,0,1,1,1,0,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,0,1,1,0,1,0,0,1,1,0,former smoker,social drinker,1,1,1,0,1,0,0,1,0,1,1,1,1,1,0,1,1,1,few hours a day,1,1,male,right handed,primary school,1
+1,1,0,1,1,1,1,0,1,1,0,0,0,1,1,tried smoking,never,0,1,0,1,1,1,1,1,0,1,0,1,0,1,0,1,0,1,most of the day,1,0,female,right handed,primary school,1
+1,0,0,1,0,0,0,0,0,0,1,1,1,1,0,tried smoking,social drinker,0,1,1,1,0,0,1,1,1,0,1,1,1,0,1,1,1,1,less than an hour a day,1,0,female,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,1,0,1,1,0,0,1,1,former smoker,social drinker,1,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1,0,0,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,0,1,0,1,1,1,0,1,1,0,current smoker,drink a lot,1,1,1,1,0,0,1,1,0,1,1,1,1,0,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,1,0,1,0,1,1,1,0,never smoked,never,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,0,0,1,0,1,1,1,1,1,1,1,0,never smoked,never,0,1,0,1,0,1,1,1,1,1,1,1,0,1,1,0,1,0,few hours a day,0,0,,right handed,primary school,1
+1,0,0,1,0,1,0,0,0,1,0,1,0,1,1,never smoked,never,0,1,0,1,0,0,1,1,0,1,1,1,1,1,0,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,0,1,1,1,0,0,0,1,1,1,0,1,0,tried smoking,social drinker,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,0,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,1,0,1,1,1,0,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,1,1,1,few hours a day,0,0,female,right handed,college/bachelor degree,1
+1,1,1,1,1,1,0,0,1,1,0,0,0,1,0,current smoker,social drinker,1,1,0,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,primary school,1
+1,1,0,1,0,1,1,0,0,1,0,0,1,1,1,never smoked,social drinker,0,0,0,1,0,0,1,1,1,1,1,0,0,0,1,1,1,1,most of the day,1,1,male,left handed,primary school,1
+1,1,0,,1,1,1,0,0,1,0,0,1,1,1,former smoker,social drinker,1,1,1,1,0,0,1,1,,1,0,1,1,1,1,1,1,1,most of the day,1,1,female,right handed,secondary school,1
+1,,0,1,1,1,1,0,0,1,1,0,1,1,1,never smoked,social drinker,1,1,0,1,1,1,1,1,0,1,1,0,0,0,0,1,0,0,few hours a day,0,0,male,right handed,secondary school,1
+0,0,0,1,0,1,0,0,0,1,0,1,0,1,1,current smoker,social drinker,0,0,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,0
+1,1,1,1,1,1,1,1,0,1,0,1,1,1,0,tried smoking,never,1,1,0,1,0,1,1,0,0,1,0,1,1,0,0,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,0,1,1,1,1,1,0,1,1,0,1,never smoked,social drinker,1,1,1,1,1,1,1,1,0,1,0,0,0,0,0,1,1,1,most of the day,0,0,male,right handed,secondary school,1
+1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,never smoked,social drinker,1,1,1,1,0,1,1,1,1,0,1,1,1,1,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+0,0,0,1,0,0,1,0,1,1,0,1,0,1,1,,never,0,0,1,0,1,1,0,0,0,1,0,1,0,1,0,1,1,0,few hours a day,0,0,male,right handed,college/bachelor degree,0
+1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,tried smoking,never,1,1,0,1,0,0,1,1,1,0,0,0,1,0,0,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,0,1,1,1,0,0,1,0,1,1,1,1,1,1,tried smoking,never,0,1,0,1,1,0,1,1,0,1,1,0,1,0,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,0,1,0,1,0,0,1,1,0,tried smoking,drink a lot,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,few hours a day,0,1,male,right handed,college/bachelor degree,1
+0,1,0,1,0,1,1,1,0,1,1,1,1,1,1,tried smoking,social drinker,1,1,,1,0,1,1,1,0,1,0,1,1,0,1,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,0
+1,0,1,1,1,1,0,1,1,1,0,0,0,1,1,former smoker,drink a lot,1,1,0,1,0,0,1,0,0,0,0,0,1,0,1,1,1,0,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,0,1,1,1,0,1,1,1,tried smoking,social drinker,1,1,0,1,1,1,1,1,1,1,1,0,0,1,0,1,0,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,1,0,1,0,1,1,1,0,never smoked,drink a lot,1,1,1,1,0,0,1,1,0,1,0,1,1,1,0,1,0,1,few hours a day,0,1,male,left handed,doctorate degree,1
+1,1,1,1,1,0,1,1,0,1,0,1,1,1,0,former smoker,social drinker,0,1,1,1,1,0,1,1,0,0,1,1,1,1,0,0,1,1,most of the day,1,0,male,right handed,masters degree,1
+1,1,0,1,1,1,1,0,1,1,1,0,1,1,1,tried smoking,never,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,few hours a day,1,1,female,right handed,currently a primary school pupil,1
+1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,tried smoking,social drinker,0,1,1,1,0,1,1,1,1,0,1,1,1,1,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,tried smoking,social drinker,0,0,1,1,0,0,1,1,1,1,1,0,1,1,0,0,0,1,few hours a day,0,1,male,right handed,secondary school,1
+1,1,1,1,0,1,1,0,0,1,0,0,1,1,1,current smoker,social drinker,1,1,0,1,1,1,1,1,0,1,1,0,1,0,1,1,0,1,few hours a day,0,0,female,left handed,secondary school,1
+1,1,0,1,0,1,1,1,0,1,0,0,0,1,0,tried smoking,social drinker,1,1,1,1,0,0,,1,1,1,0,1,1,1,1,1,1,1,few hours a day,1,0,male,left handed,college/bachelor degree,1
+1,1,0,1,1,1,1,1,0,1,0,1,0,1,1,current smoker,social drinker,1,1,1,0,1,1,1,1,0,1,1,1,0,1,1,1,0,1,most of the day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,1,0,0,0,1,1,0,0,1,1,current smoker,social drinker,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1,most of the day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,1,0,1,0,1,1,1,0,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,0,0,1,1,1,0,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,0,1,1,1,1,1,0,0,0,1,0,0,1,0,former smoker,drink a lot,1,1,0,1,0,1,1,1,0,1,0,1,1,1,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,1,1,0,0,1,1,0,1,0,0,1,1,1,current smoker,drink a lot,1,0,0,0,0,1,1,1,0,1,1,0,0,1,1,1,0,0,few hours a day,0,0,male,right handed,primary school,1
+1,1,0,1,1,1,1,1,0,1,0,0,1,1,0,tried smoking,social drinker,0,1,0,1,1,0,1,1,0,1,1,0,1,1,1,1,0,1,most of the day,1,0,female,right handed,secondary school,1
+1,1,1,1,1,0,0,0,0,1,1,0,0,1,1,current smoker,social drinker,1,1,0,0,1,1,0,1,1,1,1,0,1,0,1,0,0,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,0,1,1,1,1,0,1,1,1,0,never smoked,drink a lot,1,0,0,1,1,0,1,1,0,1,1,1,1,1,0,0,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,1,0,1,0,0,1,1,0,tried smoking,social drinker,0,1,0,1,0,0,1,0,0,1,1,0,1,1,1,1,0,1,few hours a day,1,1,male,right handed,secondary school,1
+1,0,1,1,1,0,1,1,1,1,0,0,1,1,1,tried smoking,social drinker,1,1,0,1,0,1,1,1,0,1,1,1,0,0,1,1,1,1,most of the day,0,0,male,right handed,secondary school,1
+1,1,0,1,1,1,1,0,1,1,0,0,1,1,1,never smoked,social drinker,1,1,0,1,0,0,1,1,1,1,1,0,0,0,0,1,1,1,most of the day,1,0,male,right handed,secondary school,1
+1,0,0,1,0,1,1,1,0,1,1,1,1,1,,former smoker,social drinker,1,0,1,1,1,1,1,1,1,1,1,1,1,,1,1,1,1,few hours a day,1,0,male,right handed,secondary school,1
+1,1,1,1,0,1,0,0,0,1,0,0,1,1,1,never smoked,never,0,0,0,0,1,0,1,0,0,1,1,0,0,1,1,1,1,0,few hours a day,0,0,female,right handed,primary school,1
+1,1,1,1,1,1,1,0,1,1,1,0,0,1,0,former smoker,social drinker,1,0,0,1,0,1,1,1,0,0,0,0,1,1,0,0,1,1,less than an hour a day,0,0,male,right handed,college/bachelor degree,1
+1,0,1,1,1,1,1,0,0,,1,0,1,1,1,tried smoking,never,1,1,1,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,few hours a day,1,1,male,right handed,masters degree,1
+1,0,1,1,1,0,0,0,1,1,0,1,0,1,1,tried smoking,social drinker,0,1,0,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,few hours a day,0,1,female,right handed,masters degree,1
+1,0,0,1,1,0,1,1,0,1,1,1,0,1,0,tried smoking,never,1,1,0,1,1,1,1,1,0,0,0,1,0,0,0,1,1,1,few hours a day,1,0,male,right handed,secondary school,1
+1,0,1,1,1,0,1,1,1,1,0,0,0,1,0,current smoker,social drinker,0,1,0,1,0,1,1,1,0,1,0,0,1,1,1,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,0,0,0,0,0,1,1,1,1,1,0,never smoked,social drinker,0,1,0,1,0,0,0,1,0,0,0,1,1,0,0,1,1,1,few hours a day,0,0,male,right handed,secondary school,1
+1,1,1,1,0,1,1,1,0,1,1,0,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,0,0,1,1,0,0,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,0,1,,0,0,1,0,1,1,0,1,1,0,tried smoking,drink a lot,1,1,1,1,0,0,1,1,1,0,0,0,1,1,0,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,0,0,1,1,0,1,0,0,1,1,1,0,1,1,former smoker,drink a lot,1,0,0,1,1,0,1,0,0,1,1,0,0,0,0,1,0,0,few hours a day,1,0,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,0,1,1,1,1,1,1,0,never smoked,never,1,0,0,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,less than an hour a day,0,0,female,right handed,secondary school,1
+1,1,0,1,0,1,0,1,0,0,0,1,1,1,1,tried smoking,social drinker,1,1,0,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,less than an hour a day,1,1,female,right handed,masters degree,1
+1,1,0,1,0,0,0,0,0,1,0,0,0,0,1,never smoked,social drinker,0,1,0,1,1,1,1,1,0,1,1,0,0,0,1,1,0,0,few hours a day,0,0,female,right handed,college/bachelor degree,1
+1,1,0,0,0,0,0,1,0,1,0,1,1,1,1,never smoked,social drinker,1,1,0,0,0,0,1,0,1,0,0,1,0,0,1,1,1,1,less than an hour a day,1,1,female,left handed,college/bachelor degree,1
+1,0,1,1,1,1,1,0,1,1,0,0,0,1,1,never smoked,social drinker,1,1,0,1,0,1,1,1,0,1,1,1,0,0,1,1,1,1,few hours a day,0,0,female,right handed,primary school,1
+1,0,1,1,1,1,1,0,1,1,0,0,1,1,1,never smoked,social drinker,1,1,0,1,0,0,1,1,0,1,1,0,1,1,1,1,1,1,few hours a day,1,0,female,left handed,primary school,1
+1,1,0,1,0,1,0,0,0,1,1,0,0,1,0,former smoker,social drinker,1,1,0,1,1,1,1,0,0,0,0,1,1,1,1,0,1,1,less than an hour a day,0,0,female,right handed,masters degree,1
+1,1,0,1,1,1,1,0,0,1,0,0,0,1,1,current smoker,social drinker,1,1,1,0,0,1,1,1,1,1,1,0,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,0,1,1,1,1,1,0,0,1,1,1,1,1,1,tried smoking,never,1,1,1,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,few hours a day,1,1,male,right handed,masters degree,1
+1,0,0,1,1,0,1,0,0,1,1,0,1,1,0,current smoker,drink a lot,1,1,0,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,0,0,1,1,1,1,0,0,1,0,0,1,1,1,current smoker,never,0,1,0,0,0,1,1,1,1,1,1,0,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,0,1,1,0,0,1,0,0,1,1,1,tried smoking,social drinker,1,1,1,1,0,1,1,1,1,0,0,0,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,0,0,1,1,1,0,0,0,1,0,0,1,1,1,tried smoking,social drinker,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,0,female,right handed,college/bachelor degree,1
+1,1,1,1,1,0,1,0,0,1,0,0,0,1,1,current smoker,drink a lot,1,0,0,1,0,1,0,1,0,0,0,0,1,1,1,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,0,0,1,0,0,1,0,0,1,1,0,1,1,1,former smoker,social drinker,1,1,0,1,1,0,0,1,1,1,1,0,1,1,0,1,1,1,less than an hour a day,1,1,male,right handed,secondary school,1
+1,1,1,1,1,1,1,1,0,1,0,0,1,0,1,tried smoking,social drinker,0,1,1,1,1,1,1,1,0,1,1,0,0,0,1,1,0,1,most of the day,1,0,male,right handed,secondary school,1
+1,1,,1,1,1,1,0,0,1,0,0,1,1,0,tried smoking,social drinker,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,few hours a day,1,1,,right handed,secondary school,1
+1,1,0,1,1,0,1,0,0,1,0,0,,1,0,never smoked,never,0,1,1,1,0,1,1,1,1,1,0,0,1,1,1,0,1,1,few hours a day,1,0,male,right handed,primary school,1
+1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,current smoker,social drinker,1,0,0,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,few hours a day,0,1,female,right handed,college/bachelor degree,1
+1,0,1,1,0,0,1,0,1,1,0,0,0,1,1,never smoked,drink a lot,1,1,0,1,0,0,1,0,0,1,0,0,1,0,1,1,1,1,few hours a day,0,0,female,right handed,college/bachelor degree,1
+1,1,1,1,0,1,1,0,0,0,1,1,0,1,1,never smoked,social drinker,1,1,1,1,0,0,1,1,0,1,0,1,1,0,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,tried smoking,drink a lot,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,1,few hours a day,0,0,male,left handed,college/bachelor degree,1
+1,1,0,1,1,1,1,1,0,1,0,0,1,1,1,tried smoking,social drinker,1,1,1,1,0,1,1,1,1,1,1,0,0,0,1,0,1,1,few hours a day,0,0,female,right handed,college/bachelor degree,1
+1,1,0,1,1,0,1,1,0,0,1,0,1,1,0,current smoker,social drinker,1,1,0,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,less than an hour a day,0,1,female,right handed,secondary school,1
+1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,never smoked,social drinker,1,1,0,1,0,0,1,1,1,1,1,0,0,0,0,1,0,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,tried smoking,social drinker,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,1,1,0,0,1,0,0,1,1,0,tried smoking,social drinker,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,0,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,0,0,1,1,1,1,1,1,1,1,0,1,1,1,tried smoking,drink a lot,1,1,0,1,0,0,1,0,0,0,1,1,1,1,0,1,1,1,most of the day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,never smoked,social drinker,1,1,1,1,0,0,1,1,0,1,0,1,1,0,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,0,0,1,1,1,1,1,0,0,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,0,1,0,1,1,0,1,1,1,1,less than an hour a day,1,0,female,right handed,primary school,1
+0,1,0,1,1,1,0,0,0,1,0,0,1,1,0,former smoker,social drinker,0,1,0,1,0,,1,1,1,0,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,0
+1,0,1,1,1,0,0,0,1,1,0,0,0,1,0,current smoker,drink a lot,1,1,0,1,0,1,0,1,0,1,1,0,1,1,1,0,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,0,0,1,1,1,1,1,0,never smoked,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,1,0,0,1,1,1,few hours a day,1,0,female,right handed,primary school,1
+1,1,0,1,1,1,1,1,0,1,0,0,0,1,0,tried smoking,social drinker,1,0,0,1,0,1,0,0,0,1,0,1,0,1,0,1,1,1,few hours a day,1,1,male,right handed,primary school,1
+1,1,0,1,1,0,1,1,0,1,0,0,1,1,0,current smoker,social drinker,0,1,0,1,1,0,1,1,1,0,1,0,1,1,0,1,1,1,less than an hour a day,1,1,male,right handed,secondary school,1
+1,0,0,1,1,1,0,0,0,1,1,0,1,1,1,tried smoking,drink a lot,1,0,0,1,0,1,0,1,1,0,0,0,1,1,0,1,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,current smoker,drink a lot,1,1,0,1,0,1,0,1,1,0,0,0,1,1,0,1,1,1,few hours a day,0,1,male,right handed,masters degree,1
+1,1,1,1,0,1,1,0,0,1,0,0,1,1,1,never smoked,social drinker,0,1,1,1,0,1,1,1,0,1,0,0,0,1,1,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,0,1,0,1,0,0,1,1,1,1,1,1,0,tried smoking,social drinker,0,1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,tried smoking,social drinker,0,0,0,1,0,1,1,1,1,1,1,1,0,0,1,1,1,1,few hours a day,0,0,male,right handed,secondary school,1
+1,0,0,1,1,0,1,1,1,1,1,1,1,1,0,tried smoking,social drinker,1,0,1,1,0,0,1,1,1,1,1,1,1,1,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,1,0,1,1,0,1,0,0,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,0,1,1,1,0,1,few hours a day,1,1,,right handed,secondary school,1
+1,0,1,1,0,1,0,1,1,1,1,1,1,1,1,former smoker,social drinker,1,0,1,1,0,0,1,1,0,0,1,1,0,1,0,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,0,1,0,0,1,0,1,1,1,1,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,0,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,0,1,0,0,0,0,1,1,0,0,1,1,0,tried smoking,social drinker,0,1,1,1,1,1,1,1,1,0,0,1,1,1,0,1,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,1,0,1,0,1,1,1,1,1,1,1,1,1,0,tried smoking,drink a lot,1,1,0,1,0,1,1,1,0,0,1,1,1,1,1,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,1,1,1,1,0,0,0,1,0,0,1,1,0,tried smoking,social drinker,1,1,1,1,0,1,1,1,1,1,0,1,1,0,0,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,0,0,1,1,1,1,1,1,1,0,0,1,1,1,never smoked,social drinker,1,1,1,1,0,1,1,1,1,1,1,1,0,0,0,1,1,0,few hours a day,0,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,0,0,1,0,0,1,1,1,current smoker,social drinker,1,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,few hours a day,0,1,female,right handed,primary school,1
+1,1,1,1,0,1,0,0,1,1,0,0,1,1,1,never smoked,social drinker,0,1,0,1,1,0,1,0,1,1,1,0,0,1,1,1,1,1,few hours a day,0,0,female,right handed,college/bachelor degree,1
+1,1,1,1,0,1,0,1,0,1,0,1,1,1,0,tried smoking,never,1,1,1,0,1,0,1,1,1,1,0,1,1,1,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+0,1,1,1,0,1,1,1,1,1,1,0,1,1,0,tried smoking,drink a lot,1,1,0,1,0,0,1,1,1,0,1,1,1,1,1,0,1,1,less than an hour a day,1,1,female,right handed,secondary school,0
+1,1,0,1,1,1,0,1,1,1,0,0,1,1,1,former smoker,social drinker,0,1,0,1,0,1,1,1,1,0,1,0,1,1,1,0,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,0,0,0,1,0,former smoker,drink a lot,1,0,,1,0,1,1,1,0,0,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,primary school,1
+1,0,0,1,0,1,1,1,0,1,1,0,0,1,1,former smoker,social drinker,1,0,0,1,0,1,1,1,1,0,0,0,1,1,1,1,1,1,less than an hour a day,1,1,female,left handed,secondary school,1
+1,0,0,1,1,1,1,1,0,1,1,0,1,1,0,former smoker,never,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,0,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,tried smoking,social drinker,1,1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,0,0,1,1,1,0,1,0,never smoked,never,1,1,0,1,0,1,1,1,1,1,0,1,1,1,0,1,1,1,less than an hour a day,1,1,female,right handed,secondary school,1
+,1,0,1,0,0,1,0,1,1,0,0,0,0,1,never smoked,social drinker,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,1,few hours a day,0,0,female,right handed,secondary school,
+1,1,0,1,1,1,0,0,0,1,0,0,0,1,1,tried smoking,social drinker,1,1,1,1,1,0,0,1,0,0,0,0,1,0,1,1,1,1,most of the day,0,0,female,right handed,secondary school,1
+1,1,1,1,1,1,0,0,0,0,1,0,1,1,0,tried smoking,social drinker,1,1,0,1,0,0,1,1,1,1,1,1,1,1,0,0,1,1,less than an hour a day,1,1,female,right handed,primary school,1
+1,1,0,1,1,1,1,0,1,1,0,0,0,1,0,tried smoking,never,1,1,0,1,0,0,1,1,1,0,0,1,1,0,1,1,1,1,few hours a day,1,0,male,right handed,masters degree,1
+1,1,0,1,0,1,0,0,0,1,1,0,0,1,1,former smoker,drink a lot,1,0,0,1,1,0,1,1,0,1,1,0,0,1,0,1,1,0,few hours a day,0,1,female,right handed,college/bachelor degree,1
+1,1,1,1,1,1,1,1,0,1,1,0,0,1,1,tried smoking,social drinker,1,1,0,1,0,0,1,1,1,1,1,0,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,0,0,1,0,1,1,1,1,never smoked,social drinker,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,no time at all,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,0,0,1,1,0,tried smoking,social drinker,1,0,0,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,tried smoking,social drinker,1,0,0,1,0,0,1,1,1,0,0,1,1,1,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,0,0,1,0,0,1,1,0,never smoked,social drinker,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,0,1,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,0,1,1,1,1,1,0,1,1,1,few hours a day,0,0,female,left handed,primary school,1
+1,1,0,1,0,1,0,1,0,1,0,0,1,1,0,current smoker,social drinker,1,1,0,1,0,0,1,1,1,1,0,1,1,1,1,0,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,1,1,0,1,0,0,0,1,1,1,1,1,1,never smoked,social drinker,1,1,0,1,0,0,1,1,0,1,0,1,1,1,,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,0,1,0,1,0,0,0,1,0,0,0,1,1,current smoker,social drinker,1,1,0,1,0,0,0,1,0,0,0,0,0,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,tried smoking,social drinker,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,0,1,1,1,0,1,0,1,1,0,1,1,1,1,tried smoking,social drinker,0,1,0,1,0,0,0,1,0,0,1,1,0,0,0,1,1,1,most of the day,0,1,female,right handed,secondary school,1
+0,1,0,1,0,0,0,1,0,0,0,1,1,1,0,current smoker,social drinker,1,0,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,0
+1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,tried smoking,never,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,never smoked,social drinker,1,0,0,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,0,0,1,0,1,1,1,1,1,1,0,1,1,1,former smoker,social drinker,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,1,1,1,0,1,1,0,current smoker,drink a lot,0,0,0,1,0,1,1,1,0,0,1,0,1,1,1,0,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,,1,0,0,1,1,0,0,1,1,former smoker,social drinker,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,0,0,female,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,0,0,1,0,0,1,1,1,tried smoking,social drinker,0,1,0,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,most of the day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,0,1,1,1,0,0,1,1,tried smoking,social drinker,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,0,1,1,0,1,0,1,1,1,1,1,1,1,0,never smoked,never,1,1,1,1,0,0,1,1,1,0,0,1,1,1,1,1,1,1,few hours a day,1,1,female,left handed,masters degree,1
+1,1,0,1,0,1,1,0,1,1,0,0,1,1,1,never smoked,never,1,1,0,1,0,0,1,1,1,0,1,0,1,1,1,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,tried smoking,social drinker,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,0,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,1,1,1,1,0,1,0,1,0,0,0,1,1,current smoker,social drinker,1,1,0,1,0,1,1,1,0,1,0,0,1,0,1,1,1,1,few hours a day,1,0,female,right handed,college/bachelor degree,1
+1,1,1,1,1,0,0,1,0,1,0,0,1,1,1,never smoked,social drinker,1,1,1,1,0,1,0,1,1,0,0,1,1,1,1,1,1,1,less than an hour a day,1,1,male,right handed,secondary school,1
+1,0,1,1,1,0,0,0,1,1,1,1,0,1,1,former smoker,social drinker,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,less than an hour a day,1,0,female,right handed,secondary school,1
+1,1,0,1,1,1,1,1,0,1,1,0,1,1,0,former smoker,drink a lot,0,1,1,1,0,0,1,1,1,1,0,1,1,1,0,0,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,1,1,0,1,0,1,1,0,0,1,0,current smoker,social drinker,1,1,1,1,0,1,1,0,1,0,0,0,1,1,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,former smoker,drink a lot,0,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,1,1,1,1,1,0,1,1,0,1,1,1,0,tried smoking,never,1,0,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,1,1,1,1,1,1,0,1,0,0,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,0,1,0,0,1,1,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,0,1,1,1,1,1,0,0,1,1,tried smoking,social drinker,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,few hours a day,1,0,male,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,0,1,1,1,0,current smoker,social drinker,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,0,1,1,0,1,1,0,0,1,1,1,1,1,0,current smoker,social drinker,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,few hours a day,0,1,female,right handed,secondary school,1
+1,0,1,1,0,0,1,1,0,1,1,0,1,1,1,former smoker,drink a lot,1,1,1,1,0,1,1,1,0,1,1,0,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,0,0,0,0,1,0,0,0,1,1,tried smoking,never,1,1,0,1,0,0,1,1,1,1,0,1,1,0,1,1,1,1,less than an hour a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,0,1,1,0,0,1,1,0,never smoked,social drinker,1,1,1,1,0,0,0,0,0,0,0,1,1,1,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+0,0,0,1,1,0,1,0,1,1,0,0,1,1,1,never smoked,social drinker,1,0,0,1,0,0,0,1,1,0,0,0,1,1,0,1,1,1,most of the day,1,1,male,right handed,secondary school,0
+1,1,0,1,1,1,0,0,0,1,1,1,1,1,1,tried smoking,social drinker,1,1,1,1,0,1,0,1,1,0,0,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,former smoker,social drinker,1,1,1,1,0,0,1,1,1,1,0,1,1,1,0,1,1,1,few hours a day,1,1,female,right handed,masters degree,1
+1,1,0,1,1,1,0,1,0,1,1,0,1,1,1,former smoker,social drinker,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,0,0,1,1,1,0,0,0,1,0,,1,0,0,tried smoking,never,1,1,1,1,0,1,1,1,1,1,0,1,1,1,0,1,1,1,few hours a day,1,1,male,left handed,secondary school,1
+1,1,0,1,1,0,0,1,0,1,0,0,1,1,0,current smoker,drink a lot,1,0,0,1,1,0,1,1,0,0,0,0,1,1,1,0,1,1,most of the day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,1,0,0,1,1,1,1,0,tried smoking,social drinker,1,1,0,1,0,1,1,1,1,1,0,1,1,1,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,0,1,1,1,0,1,0,1,1,1,1,tried smoking,social drinker,1,1,1,1,0,1,1,1,1,0,0,1,1,1,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,1,1,1,0,1,1,0,0,1,0,never smoked,social drinker,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,0,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,0,1,1,0,1,1,0,1,1,1,0,0,1,1,tried smoking,never,0,1,0,1,0,1,1,1,0,1,1,0,0,0,1,1,0,0,few hours a day,0,0,female,right handed,primary school,1
+1,1,0,1,1,0,0,1,0,1,1,0,1,1,1,former smoker,never,1,1,0,1,0,0,1,0,0,1,0,0,0,1,1,1,1,1,less than an hour a day,1,0,female,right handed,secondary school,1
+1,1,1,1,1,1,0,1,0,0,0,1,1,1,1,tried smoking,drink a lot,1,1,0,1,1,0,1,1,0,0,1,1,0,1,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,0,1,1,1,1,0,0,1,1,0,former smoker,drink a lot,1,1,0,1,0,1,1,1,0,0,0,0,1,1,1,0,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,0,0,1,0,1,1,0,1,1,1,1,1,1,1,former smoker,social drinker,1,1,0,1,0,0,1,1,0,1,1,0,0,0,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,1,0,1,0,1,1,0,0,1,1,tried smoking,drink a lot,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,less than an hour a day,1,1,female,right handed,secondary school,1
+1,0,0,1,1,1,0,1,0,1,1,0,1,1,1,tried smoking,social drinker,1,1,0,1,0,0,1,1,1,0,1,0,1,1,1,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,0,1,1,0,1,1,1,1,1,1,1,0,0,0,tried smoking,social drinker,1,1,1,1,1,1,1,1,0,0,1,1,1,0,0,0,1,1,most of the day,1,0,female,right handed,secondary school,1
+1,0,1,1,0,0,1,0,0,1,1,0,0,1,1,never smoked,social drinker,0,1,1,1,1,0,1,1,1,0,1,1,0,0,0,1,1,0,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,1,1,0,1,0,1,1,1,0,1,1,tried smoking,social drinker,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,less than an hour a day,0,1,female,right handed,secondary school,1
+1,1,1,1,0,1,0,0,1,1,0,0,1,1,0,never smoked,social drinker,1,1,0,1,0,1,1,0,1,1,1,0,0,0,1,1,0,1,few hours a day,0,0,female,right handed,masters degree,1
+1,1,0,1,0,1,1,1,0,1,0,0,0,1,0,current smoker,social drinker,1,1,0,0,1,0,0,1,1,1,0,0,1,1,0,0,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,0,0,1,0,1,0,1,1,1,1,1,1,1,1,current smoker,social drinker,0,1,0,1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,1,1,0,0,1,1,0,0,1,1,1,never smoked,social drinker,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,,1,few hours a day,1,0,female,right handed,primary school,1
+1,0,1,1,0,1,1,0,1,1,0,0,1,0,1,never smoked,never,1,1,0,1,1,0,1,1,1,1,1,1,0,0,1,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,0,1,1,1,1,1,0,1,0,0,1,1,0,tried smoking,never,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,0,1,0,1,1,1,0,0,1,1,never smoked,never,1,0,0,1,0,0,0,1,1,0,0,1,1,1,0,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,0,0,1,1,0,tried smoking,social drinker,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,former smoker,social drinker,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,few hours a day,0,1,female,right handed,college/bachelor degree,1
+0,1,1,1,1,1,1,0,0,1,0,0,1,1,1,tried smoking,social drinker,0,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,primary school,0
+1,1,0,1,1,1,1,1,0,1,1,1,1,0,1,current smoker,social drinker,1,1,1,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,0,1,1,1,1,1,1,0,never smoked,never,0,1,1,1,0,1,1,1,1,0,1,1,1,1,0,1,1,1,few hours a day,1,0,male,right handed,secondary school,1
+1,1,0,1,0,0,0,0,0,1,0,1,1,1,1,tried smoking,social drinker,0,1,1,0,0,1,1,1,1,1,1,1,0,0,1,1,1,1,few hours a day,1,1,male,left handed,secondary school,1
+1,1,0,1,0,1,1,0,0,1,1,0,1,1,1,former smoker,social drinker,1,1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,less than an hour a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,0,1,0,1,1,0,0,1,1,1,tried smoking,social drinker,,0,0,1,0,1,1,1,1,1,0,0,1,1,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,0,1,1,0,1,1,1,1,never smoked,social drinker,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,less than an hour a day,1,1,female,right handed,currently a primary school pupil,1
+1,1,0,1,0,1,1,1,0,1,1,1,1,1,1,former smoker,social drinker,1,0,1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,few hours a day,1,1,female,left handed,secondary school,1
+1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,tried smoking,social drinker,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,0,0,0,1,0,1,1,1,0,never smoked,never,1,1,,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,0,1,female,right handed,college/bachelor degree,1
+1,0,1,1,0,1,0,1,0,0,1,0,1,1,0,tried smoking,social drinker,1,1,1,1,0,1,1,1,0,0,0,1,1,1,1,1,1,1,few hours a day,1,0,female,right handed,primary school,1
+1,1,0,1,0,1,0,1,1,1,0,1,1,1,1,never smoked,social drinker,1,1,1,1,1,0,1,1,0,1,1,1,0,0,0,1,1,1,few hours a day,0,1,male,left handed,secondary school,1
+1,1,0,1,0,1,1,0,0,1,0,1,1,1,1,never smoked,social drinker,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,primary school,1
+1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,tried smoking,social drinker,0,1,0,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,less than an hour a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,1,1,1,0,0,1,1,0,never smoked,social drinker,1,1,1,1,0,0,1,1,0,0,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,tried smoking,social drinker,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,0,1,1,1,1,1,1,1,1,0,0,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,,0,0,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,1,1,0,0,0,1,0,0,1,1,1,never smoked,drink a lot,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,primary school,1
+1,1,1,1,0,1,1,0,0,1,0,0,,1,1,tried smoking,social drinker,0,1,1,,0,0,1,1,1,0,1,1,1,0,1,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,0,0,1,0,1,1,0,1,1,1,1,0,1,0,former smoker,social drinker,1,0,1,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,0,0,1,1,0,1,1,1,0,tried smoking,social drinker,1,0,1,1,0,0,1,0,1,1,1,1,0,0,1,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,0,1,0,1,1,1,1,1,1,1,1,1,0,never smoked,never,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,0,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,0,0,1,1,0,0,1,0,1,0,0,1,1,1,never smoked,never,0,1,0,1,0,0,1,1,1,1,1,0,1,0,1,1,1,1,few hours a day,0,0,female,right handed,masters degree,1
+1,1,0,1,1,1,1,0,1,1,1,1,1,1,0,tried smoking,social drinker,1,1,0,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,few hours a day,0,1,male,right handed,primary school,1
+1,1,0,1,1,1,1,1,1,1,0,0,0,1,1,never smoked,never,1,1,0,1,0,1,0,0,0,0,0,1,1,0,0,1,1,1,few hours a day,1,0,male,left handed,secondary school,1
+1,1,0,1,0,0,0,1,1,1,0,1,0,1,0,tried smoking,drink a lot,1,1,1,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,never smoked,social drinker,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,few hours a day,1,1,female,left handed,secondary school,1
+1,0,1,1,0,1,0,1,0,0,0,0,1,1,0,tried smoking,social drinker,1,1,1,1,0,1,1,1,0,1,0,1,1,1,1,0,1,1,few hours a day,1,0,female,right handed,primary school,1
+1,0,0,1,0,1,1,1,0,1,0,1,0,1,0,tried smoking,social drinker,0,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,primary school,1
+1,0,0,1,1,0,1,0,0,1,1,0,1,1,0,former smoker,social drinker,0,0,0,1,1,1,1,0,0,1,1,0,1,1,1,1,0,0,most of the day,1,1,male,right handed,primary school,1
+1,1,0,1,0,1,1,0,1,1,1,0,1,1,1,tried smoking,social drinker,1,1,0,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,most of the day,0,1,female,right handed,secondary school,1
+1,1,0,1,0,1,0,0,0,1,1,0,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,0,1,,1,0,0,1,1,1,1,1,1,less than an hour a day,1,0,female,right handed,masters degree,1
+1,1,0,1,0,1,0,1,0,1,0,0,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,0,0,1,0,1,1,1,1,1,few hours a day,0,0,female,right handed,college/bachelor degree,1
+1,1,1,1,0,1,1,0,1,1,1,0,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,0,1,1,0,1,1,0,1,1,1,less than an hour a day,0,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,1,0,1,1,0,current smoker,drink a lot,0,0,0,1,0,1,0,1,0,0,1,1,1,1,1,0,1,1,few hours a day,1,1,male,right handed,primary school,1
+1,1,1,1,0,0,1,0,0,1,0,0,1,1,1,tried smoking,drink a lot,1,1,0,1,0,1,1,1,0,1,1,0,1,1,1,1,1,1,most of the day,1,1,male,left handed,primary school,1
+1,1,0,1,0,0,1,0,1,1,0,0,0,1,0,never smoked,never,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,1,0,1,1,1,0,0,0,1,0,0,1,1,0,never smoked,social drinker,1,1,0,1,0,1,0,1,1,0,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,primary school,1
+0,1,1,1,1,0,1,0,0,1,0,0,1,1,1,tried smoking,social drinker,0,1,1,1,0,0,1,1,1,0,1,1,1,0,0,1,1,1,most of the day,1,1,male,right handed,college/bachelor degree,0
+1,1,0,1,1,1,0,0,1,1,0,1,1,1,1,tried smoking,social drinker,1,1,0,1,0,,1,0,1,1,0,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,primary school,1
+1,0,1,1,0,1,1,0,0,1,0,0,1,1,1,tried smoking,social drinker,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,0,1,0,0,1,0,0,1,1,former smoker,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,1,1,1,1,1,0,1,0,former smoker,social drinker,1,1,0,1,0,0,1,1,1,0,0,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,1,1,1,0,0,1,1,0,former smoker,drink a lot,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,1,0,1,1,1,1,0,0,1,1,0,tried smoking,social drinker,1,1,1,1,0,1,1,0,1,0,0,0,1,0,0,1,1,1,few hours a day,1,1,male,left handed,secondary school,1
+1,0,1,1,0,1,1,0,1,1,0,0,1,1,0,never smoked,never,1,0,0,1,0,1,1,1,1,1,0,0,1,1,1,1,1,1,few hours a day,0,0,male,right handed,secondary school,1
+1,1,0,1,0,1,1,0,0,1,0,0,1,1,1,current smoker,social drinker,1,1,1,1,0,0,1,0,1,1,0,0,1,1,1,1,1,1,less than an hour a day,0,1,male,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,0,0,1,1,0,0,1,1,current smoker,social drinker,0,0,0,1,0,0,1,1,0,1,0,0,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,0,1,1,1,0,0,1,1,1,never smoked,social drinker,0,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1,0,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,0,1,1,1,1,1,0,0,1,1,1,1,1,0,tried smoking,social drinker,1,1,1,1,0,1,1,1,1,0,1,1,1,1,0,1,1,1,less than an hour a day,0,0,female,right handed,college/bachelor degree,1
+1,1,1,1,0,1,1,0,0,1,0,0,1,1,1,never smoked,social drinker,1,1,0,1,0,1,1,1,1,1,0,,1,1,1,1,,1,few hours a day,0,0,female,right handed,college/bachelor degree,1
+1,1,1,1,0,1,1,0,0,1,0,0,0,1,1,never smoked,social drinker,1,1,0,1,0,1,1,1,1,1,0,0,1,1,1,0,1,1,few hours a day,0,0,female,right handed,college/bachelor degree,1
+0,1,1,1,0,0,0,0,0,1,0,0,1,1,1,tried smoking,social drinker,1,1,0,1,0,0,1,1,0,1,1,1,1,1,0,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,0
+1,0,1,1,0,0,0,1,0,1,1,1,1,1,0,never smoked,social drinker,1,1,1,1,0,0,0,0,1,0,1,1,1,1,0,0,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,1,0,1,0,1,1,0,0,1,1,1,tried smoking,social drinker,1,1,0,1,0,1,1,1,1,1,1,0,1,1,1,1,1,0,most of the day,1,1,male,right handed,college/bachelor degree,1
+1,1,1,1,0,1,1,0,0,1,0,1,1,1,1,never smoked,social drinker,1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,few hours a day,1,0,male,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,0,0,1,1,1,current smoker,drink a lot,1,1,1,,0,1,1,1,1,1,1,0,1,0,1,1,1,1,few hours a day,1,1,female,right handed,primary school,1
+1,,1,1,1,1,1,1,1,1,0,0,1,1,1,tried smoking,never,1,1,0,1,0,0,1,1,1,0,1,1,1,1,1,1,0,1,less than an hour a day,0,1,male,left handed,primary school,1
+1,1,1,1,0,1,0,0,0,1,0,0,1,1,1,never smoked,social drinker,1,1,0,1,1,0,1,1,0,0,1,0,1,1,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,0,1,1,0,1,1,1,1,0,1,0,never smoked,social drinker,0,1,1,1,0,0,0,1,1,0,0,1,1,1,0,0,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,0,0,1,1,1,1,1,0,1,0,1,0,0,0,tried smoking,social drinker,0,1,0,1,0,1,1,1,0,0,0,0,0,1,1,0,1,1,most of the day,1,0,male,right handed,secondary school,1
+1,1,0,1,0,1,1,1,0,1,0,0,1,1,1,never smoked,drink a lot,1,1,0,1,1,0,1,1,1,1,1,0,1,1,0,1,0,0,most of the day,1,0,male,left handed,college/bachelor degree,1
+1,1,0,1,1,1,0,0,0,0,0,0,1,1,1,tried smoking,social drinker,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,0,0,1,1,0,0,1,1,1,tried smoking,social drinker,1,0,0,1,0,0,1,1,0,0,1,0,0,1,1,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,0,1,0,1,0,0,0,1,0,0,1,1,1,former smoker,social drinker,1,1,0,1,0,1,1,1,1,0,0,0,1,1,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,never smoked,social drinker,1,1,0,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,0,1,1,1,0,0,1,1,1,0,1,1,0,tried smoking,drink a lot,0,0,0,1,0,1,1,1,0,0,1,0,1,1,1,0,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,1,0,1,0,1,1,few hours a day,1,1,male,right handed,masters degree,1
+1,1,0,1,1,1,0,0,0,1,0,0,1,1,1,tried smoking,social drinker,0,1,1,1,0,0,1,1,1,0,1,1,1,1,0,1,1,1,most of the day,1,1,female,left handed,secondary school,1
+1,0,1,1,0,1,1,1,0,1,1,0,1,1,1,tried smoking,drink a lot,1,0,0,1,1,0,1,1,1,0,0,0,1,0,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,0,0,0,1,0,0,,1,1,current smoker,social drinker,1,1,1,1,0,0,1,1,1,0,1,0,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,0,0,1,1,0,0,0,1,1,current smoker,drink a lot,1,0,0,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,most of the day,1,1,male,right handed,college/bachelor degree,1
+1,1,1,0,0,1,0,0,1,1,1,1,1,1,1,former smoker,social drinker,1,1,1,1,0,,1,1,1,1,1,1,1,0,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,0,1,1,1,0,1,1,0,current smoker,drink a lot,1,1,0,1,0,1,1,1,0,1,1,0,1,1,0,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,tried smoking,drink a lot,1,0,0,1,0,1,0,1,0,1,0,1,1,1,0,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,0,1,1,1,0,1,0,1,1,1,1,1,1,tried smoking,social drinker,1,1,0,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,masters degree,1
+1,1,0,1,1,1,0,1,1,1,1,1,0,1,0,former smoker,social drinker,1,0,0,1,0,0,1,1,1,0,1,1,1,1,0,0,1,1,few hours a day,0,0,female,right handed,masters degree,1
+1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,tried smoking,social drinker,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,0,0,1,0,1,1,1,1,1,0,1,1,1,0,never smoked,social drinker,1,1,1,1,0,1,0,1,1,0,0,1,1,1,1,1,1,1,few hours a day,1,0,male,right handed,secondary school,1
+1,1,0,1,0,1,1,0,1,0,1,1,1,1,1,never smoked,social drinker,1,1,1,1,0,0,1,1,0,1,1,1,0,0,0,1,1,1,few hours a day,0,1,female,right handed,masters degree,1
+1,1,0,1,1,1,0,0,1,1,0,0,0,1,1,tried smoking,social drinker,0,1,0,1,0,0,0,1,1,1,0,1,1,1,0,1,1,1,less than an hour a day,0,0,female,right handed,masters degree,1
+1,0,1,1,1,0,1,1,0,1,0,0,0,1,0,former smoker,never,1,1,0,1,0,1,0,0,1,1,1,0,1,1,1,0,1,1,few hours a day,1,0,male,right handed,secondary school,1
+1,1,0,1,0,1,0,0,1,1,0,0,1,1,0,never smoked,social drinker,0,1,0,0,1,0,1,1,1,1,1,1,1,0,1,1,0,1,few hours a day,1,1,male,right handed,masters degree,1
+1,1,1,1,1,0,1,0,1,1,0,0,1,1,1,never smoked,social drinker,1,1,0,1,0,0,1,1,1,1,1,0,1,1,1,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,0,0,1,1,0,1,0,1,0,0,1,0,never smoked,social drinker,0,1,0,1,1,1,1,1,,1,0,0,1,1,1,1,1,1,few hours a day,1,1,female,right handed,primary school,1
+1,1,0,1,1,1,0,0,1,1,1,1,1,1,1,current smoker,never,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,most of the day,0,0,female,right handed,college/bachelor degree,1
+1,0,1,1,0,1,1,1,1,1,1,1,1,1,0,current smoker,social drinker,1,1,1,1,1,0,1,1,1,0,0,1,1,1,1,1,1,1,few hours a day,1,0,female,right handed,college/bachelor degree,1
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,former smoker,social drinker,1,1,1,1,0,0,1,1,1,0,0,1,1,1,0,0,1,1,less than an hour a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,0,1,1,1,1,1,0,0,1,0,tried smoking,social drinker,0,1,1,1,0,1,1,1,1,0,1,0,1,1,1,1,1,1,most of the day,1,1,male,left handed,secondary school,1
+1,0,1,1,0,0,0,0,0,1,0,0,0,1,0,tried smoking,drink a lot,0,0,0,1,0,0,1,1,0,0,0,0,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,0,0,1,0,1,0,1,,1,1,tried smoking,social drinker,1,0,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,most of the day,0,1,male,right handed,masters degree,1
+0,1,0,1,0,1,1,0,0,1,0,0,0,1,1,former smoker,social drinker,0,0,0,1,0,0,1,1,1,1,1,1,0,1,0,1,1,1,less than an hour a day,0,0,male,right handed,secondary school,0
+1,1,0,1,0,1,1,0,0,1,1,1,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,0,1,0,1,1,1,0,1,0,tried smoking,social drinker,1,1,1,1,0,0,0,1,1,1,0,1,1,1,0,1,1,1,few hours a day,1,1,female,left handed,secondary school,1
+1,1,0,1,0,1,1,0,0,1,0,1,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,less than an hour a day,1,1,female,left handed,secondary school,1
+1,1,0,1,1,1,0,1,0,1,1,1,0,1,0,current smoker,drink a lot,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,less than an hour a day,1,1,female,left handed,secondary school,1
+1,1,0,1,1,1,0,0,0,0,1,1,1,1,0,tried smoking,social drinker,1,1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,1,1,few hours a day,1,0,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,0,1,1,1,0,0,1,0,never smoked,never,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,currently a primary school pupil,1
+1,1,0,1,1,0,1,0,1,1,0,0,1,1,0,current smoker,social drinker,1,1,1,1,0,0,1,1,1,0,1,0,1,1,1,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,1,0,1,0,1,0,1,0,1,0,tried smoking,social drinker,1,1,0,1,0,1,1,0,1,0,1,1,1,1,1,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,1,0,0,1,0,1,0,1,0,1,0,1,0,current smoker,never,0,1,0,1,1,1,0,1,1,1,1,0,0,0,1,1,1,1,less than an hour a day,0,1,female,right handed,secondary school,1
+1,1,1,1,1,0,1,0,1,1,0,1,1,1,1,never smoked,social drinker,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,1,1,1,1,1,0,1,0,tried smoking,social drinker,1,0,0,1,0,0,0,1,0,0,0,0,1,1,0,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,1,1,0,0,0,1,0,0,1,1,0,current smoker,drink a lot,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,,1,1,0,0,1,1,1,1,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,left handed,secondary school,1
+1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,current smoker,drink a lot,0,1,0,1,0,1,0,1,0,1,0,0,1,0,1,1,1,0,most of the day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,1,1,0,0,1,0,1,0,1,1,tried smoking,social drinker,1,1,1,1,1,0,0,1,0,0,1,1,0,0,1,1,1,1,less than an hour a day,1,0,female,right handed,primary school,1
+1,1,0,1,0,0,0,0,0,1,1,1,1,1,0,former smoker,never,1,1,0,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,less than an hour a day,1,1,female,right handed,secondary school,1
+1,0,1,1,0,0,0,1,0,1,1,1,1,1,1,former smoker,social drinker,1,1,0,1,0,1,1,1,0,0,1,1,1,1,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,1,1,1,1,0,1,1,0,never smoked,social drinker,0,1,0,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,few hours a day,0,0,female,left handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,0,0,1,1,1,current smoker,social drinker,1,,1,1,0,1,0,1,,1,0,1,1,1,,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,1,1,1,0,0,0,0,1,,1,1,1,0,tried smoking,never,1,1,1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,few hours a day,1,0,female,right handed,masters degree,1
+1,1,0,1,0,1,0,0,0,1,0,0,0,1,1,former smoker,social drinker,1,1,0,1,0,1,1,1,0,1,1,0,1,1,1,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,1,1,1,1,1,0,0,1,1,1,0,1,1,former smoker,social drinker,1,1,1,1,0,1,1,1,1,1,1,1,0,1,1,1,0,0,less than an hour a day,1,1,female,right handed,secondary school,1
+1,0,1,1,0,0,1,0,0,0,0,0,1,1,0,current smoker,social drinker,1,0,0,1,0,0,1,1,0,0,1,1,1,0,1,1,1,1,less than an hour a day,0,1,female,right handed,masters degree,1
+1,0,0,1,0,1,1,0,0,1,1,1,0,1,0,tried smoking,social drinker,1,0,0,1,0,0,1,1,0,1,0,1,1,1,1,0,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,1,0,1,0,1,1,1,0,1,1,0,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,0,1,1,1,1,1,few hours a day,1,0,female,right handed,primary school,1
+1,0,1,1,1,1,0,0,0,1,1,0,,1,0,tried smoking,drink a lot,1,1,0,1,0,0,1,1,1,1,1,0,1,1,0,,0,1,most of the day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,0,0,1,0,1,0,1,0,tried smoking,never,1,0,0,0,0,0,1,1,0,1,0,1,1,1,1,0,1,1,less than an hour a day,1,0,female,right handed,masters degree,1
+1,0,0,1,1,1,1,0,1,1,0,0,1,1,1,tried smoking,never,1,1,1,1,0,1,1,0,1,1,1,1,1,1,0,1,1,1,few hours a day,1,1,male,left handed,secondary school,1
+1,0,1,1,1,0,1,1,0,1,1,0,1,1,1,current smoker,drink a lot,1,1,1,1,0,0,1,1,0,1,1,0,0,1,0,1,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,tried smoking,drink a lot,0,1,0,1,0,0,1,1,1,1,0,1,1,0,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,0,1,0,0,1,0,0,1,1,0,1,1,0,tried smoking,social drinker,1,0,0,1,1,1,1,1,0,1,1,0,1,1,1,0,1,0,few hours a day,1,0,male,right handed,secondary school,1
+1,1,1,1,0,1,0,0,0,1,0,0,1,1,0,former smoker,social drinker,1,1,0,1,0,1,1,1,1,1,1,0,1,1,1,0,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,0,1,0,1,0,tried smoking,drink a lot,0,0,0,1,0,1,1,1,0,1,1,1,0,0,1,1,1,1,few hours a day,0,0,male,right handed,secondary school,1
+1,1,0,1,1,1,0,,0,1,0,0,1,1,1,former smoker,social drinker,1,0,0,1,0,0,1,1,1,1,1,0,1,0,1,1,1,0,few hours a day,0,1,female,right handed,secondary school,1
+1,1,1,1,0,1,0,0,0,1,0,0,0,1,1,current smoker,social drinker,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,1,1,0,0,1,1,1,current smoker,social drinker,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,0,1,0,1,0,0,1,1,1,former smoker,drink a lot,1,1,1,1,0,1,1,1,0,1,1,0,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,0,0,0,0,0,0,0,1,1,tried smoking,social drinker,1,0,0,1,0,0,1,1,0,1,0,0,1,1,1,1,1,1,few hours a day,0,1,female,left handed,college/bachelor degree,1
+1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,former smoker,drink a lot,1,0,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,0,1,1,0,1,1,1,1,0,1,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,0,1,0,1,0,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,0,1,1,1,0,1,1,1,1,1,0,1,1,0,tried smoking,social drinker,1,1,1,1,1,0,1,1,0,1,0,1,1,1,0,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,1,0,1,0,0,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,0,1,0,1,1,0,0,1,1,1,current smoker,drink a lot,1,0,0,1,1,0,1,0,0,1,1,0,1,0,0,1,1,1,few hours a day,1,0,male,right handed,secondary school,1
+1,0,0,1,0,1,0,1,1,1,1,1,0,1,1,never smoked,social drinker,1,1,1,1,0,0,1,1,1,1,0,1,1,0,1,1,1,1,less than an hour a day,0,0,female,left handed,masters degree,1
+1,1,0,1,1,1,1,1,1,0,0,0,1,1,0,current smoker,drink a lot,1,1,0,1,1,1,1,1,1,0,1,0,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,0,0,1,1,0,0,0,1,1,current smoker,social drinker,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,0,0,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,0,0,0,1,1,1,0,1,1,1,less than an hour a day,1,1,male,right handed,college/bachelor degree,1
+1,1,1,1,1,1,0,0,1,1,1,1,1,1,1,former smoker,social drinker,1,1,1,1,0,0,1,1,1,0,1,1,1,1,0,1,1,1,less than an hour a day,1,1,female,right handed,masters degree,1
+1,1,0,1,1,1,0,0,0,1,0,0,0,1,1,current smoker,social drinker,0,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,0,1,1,1,1,0,1,1,0,tried smoking,social drinker,1,0,0,1,0,1,0,0,1,0,0,0,1,1,0,0,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,0,0,0,1,1,1,1,1,1,never smoked,social drinker,1,1,0,1,0,0,0,1,1,1,0,1,1,0,1,1,1,1,less than an hour a day,0,0,female,right handed,secondary school,1
+1,1,0,1,1,0,0,1,1,1,0,1,1,1,1,tried smoking,drink a lot,1,0,0,1,0,0,0,1,1,0,0,0,0,0,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,1,1,1,1,1,0,1,1,1,1,tried smoking,social drinker,1,0,1,1,0,1,1,1,1,1,0,1,1,1,0,1,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,1,0,0,0,1,1,0,0,1,1,1,0,1,0,tried smoking,social drinker,1,1,1,1,0,1,1,1,1,0,0,1,1,1,0,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,0,0,1,0,1,0,0,0,1,1,1,1,1,1,tried smoking,social drinker,0,0,1,1,0,0,1,1,0,1,1,1,1,1,0,1,1,1,less than an hour a day,1,1,female,right handed,secondary school,1
+1,0,0,1,1,0,0,1,0,1,0,1,1,1,0,tried smoking,drink a lot,1,0,0,0,0,1,1,1,0,0,1,0,1,1,1,0,1,1,few hours a day,1,1,male,left handed,secondary school,1
+1,1,0,1,0,1,0,1,1,1,1,1,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,0,male,right handed,masters degree,1
+1,1,0,1,0,1,1,1,1,1,0,0,1,1,1,tried smoking,social drinker,1,0,0,1,1,0,1,1,0,1,1,1,0,0,1,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,0,0,1,1,1,1,1,1,1,never smoked,social drinker,1,0,0,1,0,1,1,1,0,1,1,1,1,0,1,1,0,0,less than an hour a day,0,0,female,right handed,secondary school,1
+1,1,0,1,0,1,0,0,0,1,0,1,1,0,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,0,1,1,1,1,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,1,0,1,0,0,0,1,0,never smoked,never,1,1,0,1,0,0,1,1,1,0,1,0,1,1,0,1,1,1,less than an hour a day,1,0,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,0,0,0,1,1,former smoker,drink a lot,1,0,1,1,0,1,0,1,1,0,,0,1,1,0,1,0,1,few hours a day,1,0,male,right handed,college/bachelor degree,1
+1,1,0,1,0,1,0,1,1,1,0,0,0,1,1,tried smoking,social drinker,0,1,1,1,1,0,1,1,0,0,0,1,1,0,1,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,0,1,1,1,1,1,1,1,0,1,0,1,1,current smoker,social drinker,1,1,1,1,1,0,1,1,1,0,1,1,1,0,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,1,1,0,1,1,1,1,tried smoking,drink a lot,1,1,1,1,0,0,1,1,1,1,0,1,1,1,0,1,1,1,most of the day,1,1,male,,secondary school,1
+1,1,0,1,1,1,0,0,0,1,0,1,1,1,1,never smoked,social drinker,1,0,1,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,1,1,0,1,1,0,1,1,0,0,0,1,0,tried smoking,social drinker,1,1,1,1,0,1,1,1,0,0,0,1,1,1,1,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,0,0,0,1,1,0,0,1,0,1,never smoked,social drinker,0,0,1,1,0,1,1,1,0,1,1,1,0,0,1,1,1,1,few hours a day,1,1,male,right handed,masters degree,1
+1,0,1,1,0,1,0,0,0,1,1,1,0,1,1,current smoker,drink a lot,1,1,1,1,0,0,0,1,0,1,0,1,0,0,0,1,,1,less than an hour a day,0,0,male,left handed,masters degree,1
+1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,tried smoking,social drinker,1,1,1,1,1,0,0,1,1,0,0,1,1,1,0,1,1,1,few hours a day,0,0,male,right handed,secondary school,1
+1,1,1,1,1,1,0,1,1,1,0,0,1,1,1,current smoker,drink a lot,0,1,1,0,0,0,1,1,0,1,0,1,1,0,0,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,1,1,0,1,0,0,0,1,1,0,0,,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,0,1,1,1,1,1,0,1,1,1,0,0,1,0,tried smoking,social drinker,0,0,0,1,0,0,1,1,0,1,1,0,1,1,1,0,0,1,most of the day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,0,1,0,0,1,,1,0,1,1,former smoker,never,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,most of the day,1,1,male,right handed,masters degree,1
+1,1,1,1,1,1,1,1,0,1,0,0,1,1,0,tried smoking,social drinker,1,0,1,1,0,0,1,1,1,0,0,0,1,1,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,1,1,1,1,0,1,1,1,tried smoking,social drinker,1,0,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,0,1,1,0,0,1,0,0,1,1,1,0,1,0,never smoked,social drinker,1,1,0,1,0,0,0,1,0,1,0,1,0,0,0,0,1,1,few hours a day,0,1,male,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,1,1,1,0,0,1,1,1,tried smoking,drink a lot,0,1,0,1,0,1,1,1,1,0,0,0,0,0,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,0,1,0,0,1,1,0,0,1,1,1,former smoker,social drinker,0,0,1,1,0,1,1,1,1,1,1,0,1,1,0,1,0,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,1,1,0,1,1,0,1,1,0,0,,1,1,tried smoking,drink a lot,1,1,1,1,1,,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,0,0,1,0,1,1,1,1,never smoked,social drinker,1,1,1,1,1,,0,1,0,1,0,1,0,0,0,1,0,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,0,1,0,1,1,1,1,1,1,0,1,1,0,tried smoking,social drinker,1,1,0,1,0,0,1,1,0,0,0,1,0,1,1,1,1,1,few hours a day,0,0,female,right handed,masters degree,1
+1,0,,1,1,1,1,0,0,1,0,1,1,1,0,current smoker,drink a lot,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,most of the day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,0,1,1,1,1,1,0,1,1,0,tried smoking,social drinker,1,1,0,1,0,0,1,1,1,1,0,0,1,1,0,1,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,0,0,1,1,0,0,1,0,1,0,0,1,1,0,current smoker,social drinker,0,0,0,1,0,1,1,1,1,0,0,0,1,1,1,0,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,0,0,1,0,0,0,1,0,1,1,1,1,never smoked,never,1,1,1,1,0,0,0,1,0,1,0,1,1,1,0,0,1,1,less than an hour a day,0,1,female,right handed,primary school,1
+1,1,0,1,1,1,1,0,0,1,0,0,0,1,1,former smoker,social drinker,1,1,0,1,1,1,0,1,0,1,1,0,0,1,0,1,1,1,less than an hour a day,0,0,female,right handed,secondary school,1
+1,0,0,1,0,1,0,0,1,1,1,1,0,1,1,former smoker,social drinker,0,1,1,1,1,0,1,1,0,1,1,1,1,0,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,0,1,1,0,1,0,0,1,1,1,current smoker,drink a lot,0,0,0,1,0,0,1,0,1,0,0,0,1,0,1,1,1,1,most of the day,1,1,male,right handed,college/bachelor degree,1
+1,0,0,1,0,1,1,0,1,1,1,0,1,1,0,tried smoking,social drinker,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,0,0,1,1,0,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,most of the day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,0,1,1,1,0,1,0,1,1,never smoked,social drinker,1,1,1,1,0,0,0,1,1,1,1,1,1,0,1,1,1,1,less than an hour a day,0,1,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,1,0,1,1,1,1,1,1,former smoker,social drinker,1,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,1,less than an hour a day,1,0,female,right handed,secondary school,1
+1,0,0,1,0,1,0,1,0,1,0,1,1,1,1,tried smoking,social drinker,0,0,1,0,0,0,1,1,1,1,1,1,1,0,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,0,1,1,0,1,0,0,1,1,0,tried smoking,drink a lot,0,1,0,1,0,0,1,0,0,0,0,0,1,0,1,1,1,1,most of the day,0,1,male,right handed,secondary school,1
+1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,tried smoking,social drinker,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,0,1,female,left handed,secondary school,1
+1,1,0,1,1,1,0,0,1,1,0,1,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,0,1,1,1,1,0,1,1,1,0,few hours a day,1,1,female,right handed,secondary school,1
+1,0,1,1,1,0,1,1,1,1,0,0,0,1,0,tried smoking,drink a lot,1,1,1,1,0,0,0,1,,0,0,1,1,1,0,0,1,1,most of the day,1,1,male,right handed,masters degree,1
+1,1,0,1,0,1,1,0,1,1,1,1,0,1,1,never smoked,social drinker,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,few hours a day,0,0,female,right handed,masters degree,1
+1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,former smoker,social drinker,1,1,1,1,0,0,0,1,1,0,0,0,1,1,0,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,1,1,0,1,1,0,1,1,0,0,1,1,1,current smoker,drink a lot,0,1,0,1,1,0,0,0,0,0,1,1,1,1,1,0,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,0,1,1,0,0,1,1,0,1,0,0,1,1,0,former smoker,drink a lot,1,1,0,1,0,0,1,1,0,0,1,0,1,1,1,1,1,1,few hours a day,1,1,male,left handed,secondary school,1
+1,0,0,1,0,0,1,0,0,1,1,0,0,1,0,tried smoking,social drinker,1,1,0,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,few hours a day,0,1,female,right handed,college/bachelor degree,1
+1,1,0,1,0,0,1,1,0,1,0,0,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,0,1,1,0,1,1,1,0,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,0,0,1,1,0,tried smoking,never,1,1,1,1,1,1,1,1,1,0,1,1,1,1,0,0,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,0,1,1,0,1,1,1,0,1,1,0,never smoked,social drinker,1,1,0,1,0,0,1,1,1,0,0,0,1,1,0,1,1,1,less than an hour a day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,0,1,1,1,0,0,1,0,tried smoking,social drinker,1,1,0,1,0,1,0,1,1,1,1,0,1,1,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,0,0,1,0,1,1,1,0,1,1,1,0,1,0,tried smoking,never,1,1,1,1,0,0,1,0,1,0,0,1,1,1,0,1,1,1,few hours a day,1,0,female,right handed,college/bachelor degree,1
+1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,never smoked,drink a lot,1,1,0,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,most of the day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,0,0,0,1,0,never smoked,social drinker,0,0,0,1,1,0,1,1,1,1,0,1,1,1,0,1,1,1,few hours a day,0,0,male,right handed,college/bachelor degree,1
+1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,former smoker,drink a lot,1,0,0,0,1,1,1,1,0,1,1,1,1,1,0,1,1,0,most of the day,1,1,male,right handed,secondary school,1
+1,1,1,1,1,0,1,0,0,1,1,1,1,1,1,tried smoking,never,1,1,1,1,0,1,0,1,1,1,0,1,1,1,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,1,0,0,1,0,1,1,0,0,1,1,former smoker,social drinker,1,1,1,1,0,0,0,1,1,0,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,1,0,1,0,1,1,1,1,former smoker,social drinker,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,less than an hour a day,1,1,female,right handed,secondary school,1
+1,0,0,1,1,0,1,0,0,1,1,0,1,1,1,tried smoking,drink a lot,1,1,0,0,0,1,1,1,0,0,1,1,1,1,1,0,1,1,few hours a day,0,1,male,right handed,primary school,1
+1,1,0,1,0,1,1,1,1,1,1,1,1,1,0,former smoker,social drinker,1,0,0,0,0,0,1,1,1,1,0,1,1,1,1,0,1,1,less than an hour a day,1,1,female,right handed,masters degree,1
+1,1,0,1,1,1,0,0,0,1,1,1,1,1,1,tried smoking,drink a lot,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,1,0,1,0,0,1,1,0,tried smoking,social drinker,1,1,0,1,0,1,1,1,0,0,1,0,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,0,0,1,1,1,0,0,,1,0,1,1,1,1,current smoker,social drinker,0,1,1,0,0,0,1,1,1,1,1,1,0,1,1,1,1,0,few hours a day,1,1,male,left handed,college/bachelor degree,1
+1,0,1,1,,1,1,0,1,1,1,1,1,1,1,current smoker,drink a lot,0,1,1,1,0,1,1,1,0,1,1,1,0,1,0,1,1,1,less than an hour a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,0,1,1,1,1,1,0,,0,,social drinker,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,masters degree,1
+1,1,1,1,1,1,1,1,1,1,1,0,1,1,0,tried smoking,social drinker,1,1,0,1,0,1,1,0,1,0,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,current smoker,social drinker,1,1,0,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,few hours a day,0,1,female,left handed,masters degree,1
+1,1,0,1,0,0,1,0,1,1,0,1,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,0,1,1,1,1,0,0,0,1,0,0,most of the day,1,0,male,right handed,secondary school,1
+1,1,1,1,0,0,0,1,0,1,0,0,1,1,1,never smoked,social drinker,0,1,0,1,0,0,1,1,0,1,1,0,1,0,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,1,1,0,1,1,1,1,0,1,0,former smoker,social drinker,0,0,1,1,0,0,1,1,0,1,0,1,1,1,1,0,1,1,most of the day,0,1,female,right handed,secondary school,1
+1,0,1,1,0,1,1,1,1,1,1,1,1,1,0,never smoked,social drinker,0,1,1,1,0,0,1,1,0,1,0,1,1,1,0,0,1,1,few hours a day,1,0,male,right handed,secondary school,1
+1,1,0,1,1,1,0,1,0,1,1,0,1,1,0,former smoker,drink a lot,1,0,0,1,1,0,1,1,0,0,1,0,1,1,1,0,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,1,1,0,0,1,1,0,former smoker,social drinker,1,1,0,1,0,1,1,1,1,1,1,1,0,1,0,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,0,0,1,0,0,1,1,1,current smoker,social drinker,1,1,0,1,0,0,1,1,1,1,1,1,0,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,current smoker,drink a lot,0,0,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,0,1,0,1,0,0,1,1,0,current smoker,drink a lot,1,0,1,0,0,1,0,1,0,0,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,0,1,0,1,0,1,1,1,1,tried smoking,drink a lot,1,1,1,1,1,1,0,1,0,0,1,1,1,0,1,1,1,1,few hours a day,0,1,male,right handed,masters degree,1
+1,1,1,1,1,1,1,0,0,1,0,1,1,1,0,tried smoking,social drinker,1,0,0,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,1,1,0,0,1,1,0,1,1,0,1,1,0,current smoker,social drinker,1,1,1,1,1,1,1,1,0,1,0,1,0,1,1,0,1,1,most of the day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,former smoker,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,0,0,0,1,0,tried smoking,social drinker,1,1,1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,former smoker,drink a lot,1,1,0,1,0,1,1,1,1,1,0,0,1,1,0,1,1,1,most of the day,1,1,,right handed,masters degree,1
+1,1,1,1,0,1,1,0,0,1,0,0,0,1,0,tried smoking,social drinker,1,1,1,1,0,1,0,1,1,1,0,1,1,1,1,0,1,1,most of the day,0,0,male,right handed,masters degree,1
+1,0,1,1,0,0,1,0,0,1,1,0,0,1,1,former smoker,drink a lot,1,1,1,1,0,0,0,0,0,1,1,1,1,1,1,1,0,1,few hours a day,1,1,male,right handed,masters degree,1
+1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,former smoker,social drinker,1,1,0,1,0,1,1,1,1,1,1,0,0,1,1,1,1,1,most of the day,0,0,male,right handed,secondary school,1
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,0,1,0,1,1,1,0,0,1,1,few hours a day,0,1,male,right handed,masters degree,1
+1,0,1,1,1,0,0,1,0,1,1,1,1,1,0,current smoker,social drinker,0,0,0,1,0,0,1,1,0,0,0,0,1,1,0,0,1,1,few hours a day,0,1,male,left handed,secondary school,1
+1,0,0,1,0,1,0,0,0,1,0,0,1,1,1,never smoked,social drinker,1,1,1,1,0,0,1,1,1,0,0,1,1,0,1,1,1,1,less than an hour a day,1,0,female,right handed,secondary school,1
+1,1,0,1,0,0,0,0,0,1,0,0,0,1,0,current smoker,social drinker,1,1,1,1,0,0,1,1,1,1,0,1,1,0,1,1,1,1,less than an hour a day,0,1,female,left handed,college/bachelor degree,1
+1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,tried smoking,social drinker,1,0,1,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,left handed,primary school,1
+1,1,0,1,0,1,1,0,1,1,0,1,1,1,1,tried smoking,never,1,1,1,1,0,0,1,1,1,0,1,1,1,0,1,1,1,1,less than an hour a day,0,1,female,right handed,secondary school,1
+1,0,0,1,0,1,0,1,1,1,1,1,1,1,0,former smoker,social drinker,0,0,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,1,1,1,0,1,1,1,1,never smoked,social drinker,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,0,1,0,1,0,1,1,1,1,1,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,0,1,0,1,1,1,few hours a day,1,0,male,right handed,college/bachelor degree,1
+1,1,0,1,0,1,0,0,0,1,1,0,1,1,1,former smoker,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,0,1,1,1,1,1,few hours a day,0,1,female,right handed,college/bachelor degree,1
+1,1,0,1,1,1,0,0,0,1,0,0,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,0,1,1,1,1,0,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,tried smoking,social drinker,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+,1,0,1,0,1,0,0,0,1,1,1,0,1,0,never smoked,social drinker,1,1,0,1,0,0,1,1,1,0,0,1,1,0,1,0,1,1,few hours a day,0,0,female,right handed,primary school,
+1,0,0,1,1,1,0,0,0,1,0,0,1,1,1,current smoker,social drinker,0,0,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,most of the day,0,1,female,right handed,secondary school,1
+1,1,1,1,0,1,1,1,0,1,1,1,0,,1,never smoked,social drinker,0,1,1,1,1,1,1,1,1,1,1,1,1,0,1,0,1,0,less than an hour a day,0,0,female,right handed,currently a primary school pupil,1
+1,1,0,1,1,0,1,1,0,1,1,1,1,1,1,tried smoking,never,1,1,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,less than an hour a day,1,0,male,right handed,secondary school,1
+1,1,1,1,1,1,1,0,0,1,0,0,1,1,1,tried smoking,social drinker,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,0,1,1,less than an hour a day,1,1,male,right handed,currently a primary school pupil,1
+1,1,0,1,1,1,1,0,0,1,0,0,1,1,0,tried smoking,never,1,1,0,1,1,1,0,1,1,0,0,0,1,1,0,1,1,1,few hours a day,1,1,male,left handed,secondary school,1
+1,0,0,1,0,1,1,1,0,1,0,0,1,1,0,tried smoking,social drinker,1,1,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,less than an hour a day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,former smoker,social drinker,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,0,0,few hours a day,1,1,female,right handed,primary school,1
+1,0,0,1,0,1,0,0,1,1,1,1,1,1,1,never smoked,social drinker,1,1,1,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,less than an hour a day,1,0,female,right handed,secondary school,1
+1,1,0,1,1,1,0,0,1,0,0,0,1,1,0,,drink a lot,0,0,0,0,1,1,1,0,,1,1,0,1,1,1,1,1,1,few hours a day,1,0,male,right handed,secondary school,1
+1,1,0,1,0,1,0,0,0,1,0,0,1,1,1,tried smoking,social drinker,1,1,0,1,0,0,0,1,0,1,1,0,1,0,1,1,1,1,most of the day,0,0,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,1,1,1,0,0,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,1,1,few hours a day,0,1,female,right handed,college/bachelor degree,1
+1,1,0,1,1,1,0,0,0,1,0,0,1,1,0,former smoker,social drinker,1,1,0,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,left handed,secondary school,1
+1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,current smoker,never,1,,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,currently a primary school pupil,1
+1,1,1,1,0,1,0,0,1,1,0,0,1,1,1,tried smoking,social drinker,1,1,0,1,0,0,0,1,1,0,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,0,1,1,0,1,1,0,0,1,0,1,1,1,1,never smoked,social drinker,1,0,0,1,0,1,1,1,1,0,0,1,1,1,1,1,1,1,most of the day,1,1,male,right handed,primary school,1
+1,1,0,1,0,1,0,0,0,1,0,0,1,1,0,never smoked,social drinker,0,0,0,1,0,1,0,1,1,1,0,1,0,1,1,1,1,1,less than an hour a day,0,0,female,right handed,secondary school,1
+1,0,0,1,0,1,1,0,0,1,1,0,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,0,1,1,1,0,1,0,0,0,1,1,1,less than an hour a day,1,0,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,1,1,1,0,1,1,0,tried smoking,drink a lot,0,1,0,1,0,1,1,1,1,0,0,0,1,1,1,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,1,1,1,0,0,1,1,0,former smoker,social drinker,1,1,0,1,0,1,0,1,1,0,1,0,1,1,1,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,0,0,1,1,1,never smoked,social drinker,1,1,0,1,0,0,1,1,1,1,0,0,1,1,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,0,1,1,0,0,1,1,1,never smoked,social drinker,0,1,0,1,0,1,1,1,0,1,1,1,1,0,0,1,1,1,most of the day,0,1,male,right handed,college/bachelor degree,1
+1,0,0,1,0,0,1,1,0,0,0,0,0,1,0,tried smoking,social drinker,1,1,0,1,0,1,1,1,0,0,0,0,1,1,1,0,1,1,few hours a day,1,0,male,left handed,secondary school,1
+1,1,1,1,0,0,0,0,1,1,0,0,1,1,1,current smoker,drink a lot,1,0,1,1,0,0,1,1,1,1,1,0,1,1,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,0,0,1,1,0,1,1,1,1,0,0,1,1,0,never smoked,drink a lot,0,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,1,0,1,0,1,1,1,0,tried smoking,social drinker,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,1,most of the day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,0,0,1,0,0,1,1,1,current smoker,drink a lot,1,0,1,1,1,1,1,1,0,1,1,1,0,0,1,1,1,1,most of the day,0,0,female,left handed,masters degree,1
+1,1,1,1,0,1,1,0,0,1,0,0,0,1,1,tried smoking,social drinker,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,less than an hour a day,1,1,male,right handed,secondary school,1
+1,0,1,1,0,1,1,1,0,1,0,1,0,1,0,never smoked,never,0,0,1,1,1,0,1,1,1,,1,1,1,1,1,1,1,1,few hours a day,0,1,male,right handed,college/bachelor degree,1
+1,0,1,1,1,1,1,0,0,1,0,0,0,1,0,former smoker,drink a lot,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,0,1,female,right handed,primary school,1
+1,0,0,1,1,1,0,0,0,1,0,0,0,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,0,1,1,1,0,1,1,1,1,less than an hour a day,1,1,female,right handed,secondary school,1
+1,0,1,1,1,1,1,1,0,1,1,0,1,1,0,current smoker,social drinker,1,1,0,0,1,0,1,1,0,1,1,1,1,1,1,0,1,1,few hours a day,1,1,female,right handed,primary school,1
+1,1,1,1,1,0,1,1,1,1,1,1,0,1,0,never smoked,drink a lot,0,1,0,1,0,1,1,1,1,1,0,0,1,1,1,0,1,1,few hours a day,0,1,male,right handed,masters degree,1
+1,1,0,1,0,0,1,1,0,1,1,0,1,1,1,current smoker,social drinker,1,1,1,1,0,0,0,1,1,0,0,1,1,1,0,1,1,1,few hours a day,1,0,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,1,0,1,1,0,0,1,0,tried smoking,never,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,0,1,1,1,1,0,0,0,0,0,0,1,1,0,tried smoking,social drinker,1,0,0,1,0,0,1,1,1,0,1,0,1,1,0,1,1,1,less than an hour a day,0,0,female,right handed,secondary school,1
+1,1,0,1,0,1,1,0,0,1,1,0,0,1,0,current smoker,never,1,1,0,1,0,1,1,1,1,1,0,0,1,1,1,0,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,0,1,1,1,0,1,0,0,0,0,1,0,1,1,current smoker,drink a lot,0,1,0,1,1,1,1,1,0,1,0,1,0,0,1,1,0,1,most of the day,0,0,male,right handed,primary school,1
+1,1,0,1,1,1,1,0,0,1,0,0,1,1,1,current smoker,drink a lot,0,1,0,1,0,1,0,0,1,1,1,1,1,1,0,1,1,0,few hours a day,1,,male,right handed,primary school,1
+1,1,0,1,1,1,1,0,0,1,0,0,1,1,1,tried smoking,social drinker,1,1,1,1,1,1,0,0,1,0,1,1,0,1,0,0,1,1,less than an hour a day,1,0,male,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,0,0,1,1,1,never smoked,never,1,1,0,1,0,0,1,1,1,1,1,0,1,0,0,0,1,1,few hours a day,0,0,male,left handed,secondary school,1
+1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,never smoked,drink a lot,0,0,1,1,0,1,1,1,0,0,1,1,1,1,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,0,1,0,1,0,1,1,0,1,1,0,current smoker,social drinker,1,1,0,1,0,0,1,1,1,1,0,1,1,0,1,1,1,1,most of the day,0,1,female,right handed,secondary school,1
+1,0,0,1,0,1,0,0,0,1,1,1,0,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,1,0,1,0,1,1,1,0,former smoker,drink a lot,0,0,0,1,1,0,1,1,0,0,0,1,1,1,0,0,1,1,few hours a day,0,0,male,right handed,secondary school,1
+1,1,0,,0,1,0,0,0,1,1,0,1,1,0,former smoker,social drinker,1,0,0,1,0,0,0,1,1,1,0,0,1,1,1,0,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,current smoker,social drinker,1,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,0,1,1,0,0,1,1,0,1,1,1,never smoked,social drinker,1,1,0,1,0,1,0,1,1,0,0,0,1,0,1,1,1,1,less than an hour a day,1,1,male,left handed,college/bachelor degree,1
+1,1,0,1,1,0,1,0,0,1,0,1,1,1,0,never smoked,never,0,1,1,1,1,0,1,1,0,1,1,1,1,0,0,1,1,1,few hours a day,1,0,male,right handed,secondary school,1
+1,1,1,1,0,1,0,1,0,0,0,1,0,1,0,current smoker,drink a lot,1,1,1,1,0,0,1,,0,0,0,1,1,0,1,0,1,1,less than an hour a day,0,1,female,right handed,secondary school,1
+1,1,,1,1,1,1,1,1,1,0,1,1,1,1,current smoker,drink a lot,1,0,1,0,1,0,1,0,0,0,1,0,1,1,1,1,1,1,few hours a day,0,0,male,right handed,secondary school,1
+1,1,0,1,0,1,1,0,1,1,1,1,1,1,0,never smoked,,1,1,0,1,0,1,1,1,0,1,0,1,1,1,1,0,1,1,few hours a day,1,0,male,right handed,currently a primary school pupil,1
+1,1,1,1,1,1,1,1,0,1,0,0,0,1,1,current smoker,social drinker,0,1,1,0,0,1,1,1,0,1,0,0,1,0,1,1,0,1,few hours a day,0,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,1,1,1,0,0,1,1,1,tried smoking,social drinker,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,most of the day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,current smoker,social drinker,1,0,1,1,1,1,1,1,0,0,1,0,1,1,1,1,1,1,most of the day,1,1,male,right handed,secondary school,1
+1,1,1,1,1,1,0,0,0,1,1,0,1,1,1,former smoker,drink a lot,1,1,1,1,1,1,1,1,0,1,1,0,0,1,1,1,1,1,most of the day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,1,0,1,1,0,0,1,0,current smoker,social drinker,1,1,0,1,0,1,1,1,0,1,0,1,1,1,1,0,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,0,0,0,0,1,1,1,0,tried smoking,social drinker,1,1,0,1,0,1,1,1,0,1,0,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,1,0,1,0,1,1,0,0,1,1,0,tried smoking,drink a lot,0,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,1,0,1,0,1,1,1,0,1,0,current smoker,drink a lot,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,most of the day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,1,0,1,0,0,1,1,1,current smoker,social drinker,0,1,0,1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,most of the day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,0,0,0,0,1,1,0,0,0,1,0,tried smoking,social drinker,0,1,0,1,0,1,1,1,1,0,0,0,1,1,1,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,0,0,1,0,1,1,0,1,1,1,former smoker,drink a lot,0,0,0,1,1,1,1,0,0,1,1,0,1,1,1,0,1,1,most of the day,1,1,male,right handed,secondary school,1
+1,0,1,1,1,1,1,0,0,0,0,0,0,1,1,tried smoking,social drinker,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,most of the day,1,1,,left handed,secondary school,1
+1,1,0,1,0,1,1,1,0,1,1,0,1,1,0,former smoker,drink a lot,1,1,1,1,1,0,1,1,1,0,1,0,1,1,0,0,1,1,few hours a day,1,1,female,right handed,primary school,1
+1,0,0,1,1,0,1,0,0,1,0,0,1,1,0,former smoker,drink a lot,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,0,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,tried smoking,social drinker,1,1,0,1,0,0,1,1,1,0,0,1,0,1,1,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,0,1,0,1,1,1,1,1,0,1,1,1,0,tried smoking,social drinker,1,0,1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,0,0,0,1,0,0,1,1,1,current smoker,never,1,1,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,less than an hour a day,1,1,female,right handed,secondary school,1
+1,0,0,1,1,1,0,1,1,1,0,0,0,1,1,tried smoking,social drinker,1,0,0,1,0,,0,1,0,1,1,1,1,0,1,1,1,1,less than an hour a day,1,0,female,right handed,college/bachelor degree,1
+1,1,1,1,1,0,1,0,1,1,0,0,1,1,1,tried smoking,social drinker,1,0,0,1,0,0,1,1,0,1,0,0,0,1,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,0,1,0,1,1,0,1,1,0,,,,0,0,1,0,0,1,1,1,1,0,1,1,0,0,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,never smoked,social drinker,1,1,1,1,1,0,1,1,1,1,0,1,0,1,0,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,1,1,0,1,,1,1,1,1,1,0,1,0,never smoked,never,1,1,1,1,0,0,0,1,1,0,0,1,1,1,0,0,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,0,0,0,0,1,1,0,0,1,1,1,never smoked,never,0,0,0,1,0,0,1,1,1,1,0,0,1,1,0,0,1,1,few hours a day,1,1,male,right handed,primary school,1
+1,1,0,1,0,1,1,0,0,1,0,0,1,1,0,never smoked,social drinker,0,1,0,1,0,1,1,1,1,0,1,0,1,1,0,1,1,1,less than an hour a day,1,0,male,right handed,secondary school,1
+1,1,0,1,0,1,0,0,0,1,1,1,1,1,0,never smoked,social drinker,1,0,1,1,0,0,1,1,1,0,1,1,1,1,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,0,1,0,1,0,0,0,1,1,tried smoking,drink a lot,1,0,0,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,less than an hour a day,0,0,female,right handed,masters degree,1
+1,1,0,1,1,1,0,1,0,1,1,1,1,1,0,current smoker,drink a lot,1,0,1,1,0,1,1,0,0,0,1,1,1,1,0,1,1,1,few hours a day,1,1,male,right handed,doctorate degree,1
+1,1,0,,1,1,1,0,1,1,1,1,1,1,0,never smoked,social drinker,1,1,1,1,0,0,1,1,1,0,0,1,1,1,0,1,1,1,less than an hour a day,1,1,male,right handed,masters degree,1
+1,1,1,1,1,1,0,0,0,1,0,0,1,1,1,current smoker,social drinker,1,1,1,1,0,1,1,1,0,1,1,1,0,0,1,0,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,0,1,1,1,1,1,0,1,1,0,0,0,0,1,never smoked,social drinker,1,1,0,1,1,1,1,1,0,1,1,0,0,0,1,1,0,1,few hours a day,0,1,male,right handed,primary school,1
+1,1,1,1,0,1,1,1,1,1,0,0,1,1,1,current smoker,social drinker,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,0,0,1,0,0,1,1,1,tried smoking,social drinker,0,1,0,1,0,1,1,1,0,1,1,1,1,1,1,1,1,1,most of the day,0,1,male,right handed,secondary school,1
+1,1,0,1,0,0,1,0,1,1,1,0,1,1,1,tried smoking,social drinker,1,1,1,1,1,1,1,1,0,1,1,1,0,0,1,1,0,0,most of the day,1,0,male,right handed,secondary school,1
+1,1,0,1,0,1,1,1,0,1,1,1,1,1,0,former smoker,social drinker,1,0,1,1,0,0,1,1,0,0,1,0,1,1,1,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,0,1,0,1,0,1,1,1,1,1,,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,0,1,1,1,1,0,1,1,1,few hours a day,1,0,female,right handed,primary school,1
+1,1,0,1,0,0,1,1,1,1,1,1,1,1,1,tried smoking,never,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,0,0,1,1,0,tried smoking,social drinker,1,1,0,0,0,0,0,1,0,0,1,1,1,0,1,1,1,1,few hours a day,1,1,male,left handed,secondary school,1
+1,1,0,1,0,1,1,0,0,1,0,1,1,1,1,tried smoking,social drinker,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,most of the day,0,0,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,0,0,1,1,1,never smoked,never,1,1,1,1,0,0,0,1,1,0,1,1,1,1,0,1,1,1,few hours a day,0,1,female,right handed,masters degree,1
+1,1,1,1,1,1,1,0,0,1,0,0,1,1,1,tried smoking,social drinker,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,few hours a day,1,1,female,right handed,currently a primary school pupil,1
+1,1,0,1,1,0,1,0,1,1,1,0,1,1,1,tried smoking,social drinker,1,0,1,1,1,1,1,1,0,1,1,1,1,1,0,1,1,1,few hours a day,1,1,male,left handed,secondary school,1
+1,1,0,1,1,1,1,1,0,1,,0,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,0,1,1,1,1,0,0,0,1,1,tried smoking,social drinker,0,1,0,1,0,0,1,0,0,1,1,1,0,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,1,0,1,1,0,1,0,1,1,1,0,former smoker,social drinker,1,1,1,1,0,0,1,1,1,1,0,1,0,1,1,0,1,1,few hours a day,0,1,female,left handed,college/bachelor degree,1
+1,1,0,1,1,1,0,1,1,1,0,1,1,1,0,tried smoking,drink a lot,0,1,1,1,0,0,1,1,0,1,1,1,1,1,0,0,1,1,few hours a day,1,0,male,right handed,secondary school,1
+1,1,1,1,0,1,0,0,1,1,1,0,1,1,1,tried smoking,social drinker,1,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,0,1,few hours a day,0,1,female,right handed,secondary school,1
+1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,never smoked,never,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,few hours a day,1,1,female,left handed,secondary school,1
+1,1,0,1,0,1,0,0,0,1,1,0,1,1,0,never smoked,never,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,most of the day,1,1,female,right handed,college/bachelor degree,1
+1,0,0,1,0,0,1,1,1,1,0,0,1,1,0,former smoker,social drinker,1,1,1,1,0,0,1,1,1,0,0,1,1,1,0,0,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,1,1,0,0,1,1,1,1,1,1,0,1,1,1,former smoker,social drinker,1,1,1,0,0,0,1,1,1,1,1,1,0,1,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,1,1,0,0,0,1,1,0,1,1,1,tried smoking,social drinker,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,less than an hour a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,1,1,0,0,0,1,1,0,1,1,1,current smoker,drink a lot,1,0,1,1,1,1,1,1,0,0,1,0,1,1,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,0,1,1,0,1,1,1,1,former smoker,drink a lot,1,0,1,1,0,1,0,1,1,0,0,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,,1,1,1,1,1,0,1,1,1,1,1,1,0,never smoked,never,1,1,1,1,1,1,1,1,1,1,1,1,1,,1,1,1,1,no time at all,1,1,male,right handed,masters degree,1
+1,0,0,1,0,1,0,0,0,1,0,1,1,1,0,never smoked,never,1,1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,few hours a day,,1,female,right handed,masters degree,1
+1,0,1,1,0,1,0,1,0,1,1,0,1,1,1,current smoker,social drinker,1,1,0,1,0,1,1,1,0,1,0,0,1,1,1,1,1,1,few hours a day,1,1,female,left handed,secondary school,1
+1,0,1,1,1,1,1,1,0,1,1,0,1,1,1,former smoker,social drinker,1,1,1,1,0,0,1,1,1,1,1,0,1,1,0,1,0,1,few hours a day,0,1,female,right handed,secondary school,1
+1,0,0,1,0,0,0,1,0,1,1,1,1,1,1,former smoker,social drinker,1,1,1,1,0,0,1,1,0,0,1,1,1,1,0,1,1,1,few hours a day,1,0,male,right handed,secondary school,1
+1,0,1,1,1,0,1,0,1,1,1,1,1,1,0,tried smoking,drink a lot,1,0,0,1,0,1,1,1,1,1,0,0,1,1,1,1,1,1,few hours a day,1,1,male,left handed,doctorate degree,1
+1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,tried smoking,social drinker,0,0,1,,0,0,1,0,1,1,1,1,1,,0,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,1,1,1,0,0,1,0,1,0,0,0,1,0,current smoker,social drinker,1,1,0,1,0,1,0,1,1,1,0,0,1,1,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,1,1,1,1,0,0,1,1,tried smoking,social drinker,1,1,0,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,few hours a day,1,0,female,right handed,college/bachelor degree,1
+1,1,0,1,1,1,0,1,0,1,1,0,1,1,1,former smoker,social drinker,1,1,0,1,1,0,1,1,1,1,1,1,0,0,1,1,1,1,few hours a day,1,0,female,right handed,masters degree,1
+1,1,0,1,1,1,0,0,0,1,1,0,1,1,0,tried smoking,social drinker,1,1,1,1,1,0,1,1,1,1,1,1,0,1,1,1,1,0,less than an hour a day,0,1,female,right handed,secondary school,1
+1,1,1,1,0,1,0,1,1,1,0,0,1,1,1,tried smoking,social drinker,0,1,0,1,0,0,1,1,0,0,1,0,1,0,1,1,1,1,less than an hour a day,0,0,male,right handed,college/bachelor degree,1
+1,1,0,1,0,1,0,0,0,1,1,0,1,1,1,never smoked,social drinker,1,0,0,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,most of the day,1,1,female,right handed,secondary school,1
+1,0,0,1,0,1,0,0,0,1,1,0,1,1,1,current smoker,drink a lot,1,0,1,1,0,1,0,1,0,0,1,1,1,1,0,0,1,1,few hours a day,0,0,female,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,1,1,1,0,0,,1,1,current smoker,social drinker,0,1,,1,1,0,0,0,1,0,1,1,1,0,1,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,0,1,1,1,1,1,0,0,1,1,0,1,1,1,tried smoking,social drinker,1,1,0,1,0,0,1,0,1,1,1,0,1,1,0,1,1,1,few hours a day,0,0,female,right handed,college/bachelor degree,1
+1,0,0,1,1,1,1,0,0,1,1,1,0,1,1,tried smoking,social drinker,1,0,0,0,0,1,1,1,1,1,1,0,1,0,1,1,1,1,few hours a day,0,0,female,left handed,secondary school,1
+1,1,0,1,1,1,1,0,1,1,0,0,1,1,1,former smoker,social drinker,1,1,0,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,1,1,0,1,1,0,0,1,1,1,0,1,1,former smoker,drink a lot,1,1,0,1,0,1,1,1,0,1,0,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,masters degree,1
+1,1,1,1,0,0,1,0,1,1,0,1,1,1,1,tried smoking,drink a lot,0,0,1,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,0,1,1,0,0,1,0,1,1,1,1,never smoked,never,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,less than an hour a day,0,1,female,right handed,secondary school,1
+1,1,0,1,0,1,0,0,1,1,1,1,1,1,1,former smoker,social drinker,1,1,1,1,0,0,1,1,1,0,0,1,1,1,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,1,0,1,1,0,1,1,1,current smoker,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,tried smoking,social drinker,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,,1,less than an hour a day,1,1,male,right handed,college/bachelor degree,0
+1,1,1,1,0,1,0,1,0,1,1,0,1,1,0,current smoker,social drinker,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,1,1,0,0,1,1,1,1,1,1,1,never smoked,social drinker,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,0,0,1,0,0,1,1,1,1,1,0,1,1,1,tried smoking,social drinker,0,0,1,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,1,1,1,0,0,1,0,0,0,1,1,current smoker,drink a lot,0,0,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,less than an hour a day,1,1,female,right handed,college/bachelor degree,1
+1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,never smoked,social drinker,1,1,0,1,1,0,1,1,0,0,1,0,1,1,0,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,1,0,0,0,0,1,0,0,1,1,1,tried smoking,never,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,0,1,1,1,1,1,0,0,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,0,0,1,1,0,1,1,1,tried smoking,social drinker,0,1,0,1,0,0,1,1,0,1,0,0,1,0,1,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,0,0,1,0,1,0,1,0,never smoked,social drinker,1,1,1,1,0,0,1,1,1,1,0,1,1,1,1,1,1,1,less than an hour a day,0,0,female,right handed,primary school,1
+1,1,1,1,0,1,0,0,1,1,0,0,1,1,1,never smoked,social drinker,1,0,1,1,0,0,1,0,0,1,1,1,0,1,0,1,1,1,most of the day,1,0,female,right handed,secondary school,1
+1,1,0,1,0,1,0,1,0,1,0,0,0,1,1,current smoker,social drinker,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,most of the day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,0,0,0,1,0,0,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,0,1,1,1,1,0,0,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,0,0,1,1,1,0,0,0,1,0,1,0,1,0,current smoker,never,1,0,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,few hours a day,0,1,female,right handed,college/bachelor degree,1
+1,0,0,1,0,1,1,1,1,1,0,0,0,1,0,never smoked,never,1,1,1,1,0,0,0,1,1,1,1,1,1,1,1,0,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,1,1,1,0,1,1,1,1,0,1,1,1,0,current smoker,social drinker,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,most of the day,1,1,male,right handed,secondary school,1
+1,1,1,1,1,0,1,0,0,1,0,0,1,1,0,current smoker,drink a lot,0,1,0,1,0,1,1,1,1,0,0,1,1,1,0,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,1,0,0,0,1,0,1,0,1,1,tried smoking,social drinker,1,0,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,less than an hour a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,0,0,1,1,1,0,0,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,1,0,1,1,0,1,0,0,1,1,1,current smoker,drink a lot,1,1,1,0,1,1,1,1,0,0,0,1,1,1,0,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,1,1,0,0,1,1,1,0,0,1,1,tried smoking,social drinker,1,1,0,1,0,1,1,1,0,1,1,0,0,0,1,1,0,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,0,1,1,1,1,1,1,1,0,0,0,1,0,,,,1,0,1,1,1,1,1,1,1,1,0,1,1,1,0,1,1,few hours a day,0,0,male,right handed,secondary school,1
+1,1,1,1,1,1,0,0,0,1,1,0,0,1,1,current smoker,drink a lot,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,less than an hour a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,0,1,1,0,0,1,1,0,former smoker,drink a lot,1,0,1,1,0,0,1,1,0,0,0,1,1,1,0,0,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,0,0,0,1,0,0,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,0,1,0,0,0,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,never smoked,never,1,1,1,1,0,0,0,1,0,0,0,1,1,1,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,0,1,0,1,1,1,1,1,0,former smoker,social drinker,0,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,most of the day,0,1,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,0,1,1,1,1,1,1,1,tried smoking,social drinker,1,1,0,1,1,0,1,1,1,0,0,1,1,1,0,1,1,1,less than an hour a day,1,1,female,right handed,masters degree,1
+1,0,1,1,0,1,1,1,0,1,0,0,1,1,0,never smoked,never,0,1,0,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,few hours a day,1,1,male,left handed,secondary school,1
+1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,former smoker,drink a lot,1,1,0,1,0,0,1,1,1,1,1,0,0,1,1,0,1,1,less than an hour a day,1,0,male,right handed,secondary school,1
+1,1,0,1,1,1,1,0,1,1,1,0,1,1,1,tried smoking,social drinker,1,0,0,1,0,0,0,1,1,1,0,0,1,1,1,1,1,1,few hours a day,1,1,female,right handed,primary school,1
+1,1,1,1,1,0,1,0,0,1,1,0,1,1,0,never smoked,social drinker,1,0,0,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,less than an hour a day,0,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,0,1,1,0,1,0,1,1,former smoker,social drinker,0,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,1,1,few hours a day,0,0,male,left handed,secondary school,1
+1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,former smoker,social drinker,1,1,1,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,0,1,0,1,0,1,1,1,1,1,1,1,0,never smoked,social drinker,1,1,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,less than an hour a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,1,0,0,1,0,0,1,1,former smoker,drink a lot,1,0,0,1,0,0,1,,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,1,1,1,1,0,1,1,1,tried smoking,social drinker,1,1,0,1,0,1,,1,1,1,1,1,1,1,1,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,0,0,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,0,female,right handed,primary school,1
+1,1,0,1,0,0,1,1,0,1,0,0,1,1,1,current smoker,drink a lot,0,1,0,1,1,1,1,0,0,0,1,1,1,1,1,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,0,0,0,1,0,0,0,1,0,current smoker,drink a lot,0,1,1,1,0,1,1,1,1,1,1,0,1,0,0,1,1,1,less than an hour a day,1,1,male,right handed,secondary school,1
+1,1,1,1,1,1,0,0,1,1,0,0,0,1,1,tried smoking,never,0,1,0,1,0,1,1,1,1,0,0,0,1,1,1,1,1,1,less than an hour a day,1,1,male,left handed,secondary school,1
+1,1,0,1,1,1,0,0,1,1,1,0,1,1,0,never smoked,social drinker,0,1,0,1,0,1,1,1,0,1,1,0,1,1,0,0,0,1,few hours a day,1,1,female,right handed,primary school,1
+1,1,1,,1,1,1,0,1,1,0,0,1,1,1,former smoker,social drinker,1,1,0,1,0,0,1,1,1,1,1,0,1,1,0,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,0,1,1,1,1,1,1,0,0,1,1,0,1,0,former smoker,never,1,0,1,1,0,0,1,1,0,1,1,0,1,1,1,1,1,1,few hours a day,0,1,female,right handed,primary school,1
+1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,tried smoking,social drinker,0,1,1,1,0,0,1,1,0,1,1,1,1,1,1,0,1,1,few hours a day,0,1,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,1,1,1,0,0,0,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,0,0,1,1,1,1,0,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,0,1,0,1,1,1,1,1,1,1,1,1,0,never smoked,social drinker,1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,0,1,,most of the day,0,1,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,0,1,1,1,1,1,1,0,never smoked,social drinker,0,1,1,1,0,0,1,0,0,0,1,1,1,1,1,0,1,1,less than an hour a day,0,0,female,right handed,secondary school,1
+0,0,0,1,0,1,0,1,1,0,,1,0,0,1,never smoked,never,1,1,1,1,0,0,0,1,1,0,1,1,0,0,1,1,1,1,no time at all,0,0,female,right handed,masters degree,0
+1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,tried smoking,social drinker,1,1,1,,1,0,1,1,0,1,1,1,1,0,1,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,0,0,1,1,0,1,1,1,former smoker,drink a lot,0,1,0,1,1,0,1,1,0,1,1,1,0,1,1,1,0,1,most of the day,1,0,female,right handed,college/bachelor degree,1
+1,1,1,1,1,0,0,1,1,1,0,1,1,1,1,current smoker,drink a lot,0,1,1,1,1,1,1,1,0,0,0,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,1,1,1,0,1,1,1,1,0,1,1,1,0,tried smoking,drink a lot,1,0,1,1,0,0,0,0,1,0,1,1,1,1,1,0,1,1,few hours a day,0,1,male,right handed,college/bachelor degree,1
+1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,0,1,1,1,1,0,1,1,1,less than an hour a day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,1,0,0,1,1,1,1,0,1,0,never smoked,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,0,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,0,0,1,0,1,1,1,1,1,1,1,1,1,0,former smoker,drink a lot,1,0,1,0,0,1,0,1,0,0,0,1,1,1,0,0,1,1,few hours a day,1,1,male,right handed,masters degree,1
+0,0,1,0,0,1,0,0,1,1,0,0,1,1,0,tried smoking,drink a lot,1,1,1,1,0,1,1,1,0,1,0,1,1,1,0,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,0
+1,0,1,1,1,1,0,0,0,1,1,1,1,1,1,tried smoking,social drinker,1,1,1,1,1,0,1,1,1,1,1,1,0,1,0,1,0,1,less than an hour a day,0,0,male,right handed,secondary school,1
+1,1,0,1,0,0,1,1,1,1,0,1,1,1,0,tried smoking,social drinker,1,1,,1,1,1,1,1,1,0,1,1,0,1,1,0,1,1,most of the day,0,0,male,left handed,college/bachelor degree,1
+1,1,0,1,1,1,1,0,1,1,0,0,1,1,1,never smoked,drink a lot,1,1,0,1,0,1,1,1,1,1,1,0,1,0,1,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,1,1,1,0,1,1,0,0,0,1,1,0,1,1,former smoker,social drinker,1,1,1,1,1,0,1,0,0,0,1,1,1,1,1,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,1,1,1,1,1,0,0,1,1,1,0,1,0,never smoked,never,1,1,1,1,0,0,1,1,1,1,1,1,1,1,0,0,1,1,less than an hour a day,0,1,female,right handed,currently a primary school pupil,1
+1,0,1,1,0,1,1,0,0,1,1,0,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,0,male,right handed,secondary school,1
+1,1,0,1,1,1,1,0,1,1,1,1,0,1,0,never smoked,social drinker,1,1,0,1,0,0,1,1,1,0,0,1,1,1,1,0,1,1,less than an hour a day,1,1,female,left handed,college/bachelor degree,1
+1,1,1,1,0,1,1,0,0,1,1,0,0,1,1,tried smoking,social drinker,0,1,1,1,1,0,1,1,0,1,1,1,0,1,0,1,0,0,few hours a day,0,1,female,right handed,secondary school,1
+1,1,0,1,0,1,0,0,1,1,1,0,0,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,0,1,1,1,0,1,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,0,1,0,1,0,1,0,1,1,tried smoking,social drinker,0,0,0,0,0,0,1,1,1,0,1,1,1,0,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,former smoker,drink a lot,1,1,0,1,0,0,1,1,0,0,0,1,1,1,0,0,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,tried smoking,social drinker,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,masters degree,1
+1,1,1,1,1,1,1,1,1,1,0,1,1,1,0,former smoker,drink a lot,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,0,0,1,0,1,0,0,0,1,1,1,1,1,1,former smoker,drink a lot,1,0,0,0,0,0,1,1,1,1,0,1,1,0,0,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,0,1,1,0,0,1,1,1,never smoked,social drinker,1,1,0,0,0,1,1,1,1,1,1,0,0,1,1,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,1,1,0,1,1,0,1,1,1,1,1,1,0,tried smoking,social drinker,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,1,1,1,1,1,1,0,1,0,1,1,current smoker,social drinker,1,1,0,1,0,0,1,1,0,0,1,0,1,1,1,1,1,1,few hours a day,0,1,female,right handed,college/bachelor degree,1
+1,1,0,1,1,0,1,1,1,1,0,0,1,1,0,former smoker,drink a lot,1,0,0,1,0,1,0,1,0,0,0,0,1,1,1,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,0,1,1,1,0,1,1,1,0,tried smoking,social drinker,1,1,0,1,0,0,0,1,1,0,0,1,1,1,0,0,1,1,less than an hour a day,1,1,male,right handed,college/bachelor degree,1
+1,1,1,1,0,1,1,1,0,1,1,1,1,1,1,,never,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,left handed,college/bachelor degree,1
+1,1,0,1,0,1,0,0,0,1,0,0,1,1,1,never smoked,social drinker,0,1,0,1,0,0,1,1,0,0,1,0,1,0,0,1,1,1,less than an hour a day,0,0,female,right handed,college/bachelor degree,1
+1,1,1,1,1,0,1,0,1,1,0,1,1,1,1,never smoked,social drinker,1,1,0,1,1,0,1,1,0,1,1,0,0,0,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,0,1,1,1,1,1,0,0,1,1,0,current smoker,drink a lot,1,1,1,1,0,1,1,1,1,0,1,1,0,1,1,1,1,1,most of the day,1,1,female,left handed,secondary school,1
+0,0,1,1,1,1,1,1,1,0,1,1,1,1,1,former smoker,never,1,1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,1,0,few hours a day,1,1,male,left handed,masters degree,0
+1,1,0,1,1,1,0,1,0,1,0,0,0,1,1,current smoker,social drinker,0,1,0,1,0,0,1,1,1,1,1,0,1,1,1,1,1,1,few hours a day,1,1,male,right handed,masters degree,1
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,never smoked,never,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,less than an hour a day,1,1,female,right handed,secondary school,1
+0,0,0,1,1,0,0,1,0,1,1,1,0,0,0,former smoker,social drinker,0,1,1,0,1,1,0,1,1,0,1,1,0,1,1,1,0,1,less than an hour a day,1,1,female,right handed,college/bachelor degree,0
+1,1,1,1,0,0,1,1,1,1,0,1,0,1,1,tried smoking,drink a lot,1,0,1,1,0,1,1,0,1,1,1,1,1,0,1,0,0,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,1,0,1,0,1,1,1,1,current smoker,social drinker,1,0,0,1,0,0,0,0,1,0,1,1,1,1,1,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,current smoker,drink a lot,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,less than an hour a day,1,1,female,right handed,college/bachelor degree,1
+1,0,0,1,0,1,1,1,0,1,1,1,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,0,0,1,1,1,1,0,1,1,most of the day,0,1,female,left handed,secondary school,1
+1,1,0,1,0,1,1,0,0,1,1,1,1,1,0,tried smoking,social drinker,1,1,0,0,0,0,1,1,0,1,0,1,0,1,1,0,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,1,0,1,1,1,0,1,0,tried smoking,social drinker,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,masters degree,1
+1,1,0,1,1,,1,1,0,1,0,0,1,1,0,former smoker,social drinker,1,1,1,1,1,0,0,0,1,1,1,0,0,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,0,0,0,1,1,0,1,1,1,tried smoking,social drinker,1,1,0,1,1,1,,1,1,0,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,0,1,0,1,1,1,1,1,0,never smoked,social drinker,1,1,1,1,0,0,0,1,1,0,1,1,1,1,0,0,1,1,less than an hour a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,0,0,0,0,1,0,0,1,1,never smoked,social drinker,1,0,0,1,0,0,1,1,0,1,0,0,1,0,0,1,1,1,less than an hour a day,0,0,female,right handed,secondary school,1
+1,1,1,1,1,1,1,0,1,1,1,0,1,1,1,never smoked,social drinker,1,1,0,1,0,0,1,1,1,1,1,0,1,1,0,0,1,1,most of the day,0,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,tried smoking,drink a lot,1,0,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,1,1,1,0,1,1,0,1,0,0,never smoked,social drinker,1,1,1,1,1,0,1,1,0,1,0,1,1,1,0,1,1,1,few hours a day,1,1,male,left handed,secondary school,1
+1,1,1,1,1,1,1,1,0,1,1,0,1,1,0,tried smoking,social drinker,1,1,1,1,1,1,1,1,1,1,1,1,1,,1,0,0,0,few hours a day,1,1,male,left handed,college/bachelor degree,1
+1,1,1,1,0,1,1,1,0,1,0,1,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,0,1,1,0,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,1,1,1,1,1,1,1,0,current smoker,drink a lot,1,0,0,1,1,1,1,1,1,0,1,0,1,1,1,0,1,1,few hours a day,1,1,male,right handed,primary school,1
+1,1,0,1,0,1,0,1,0,1,0,0,1,1,0,tried smoking,social drinker,1,0,0,1,0,0,1,1,1,1,1,1,1,1,1,0,1,1,less than an hour a day,1,1,female,left handed,primary school,1
+1,1,0,1,1,1,1,0,0,1,1,1,1,1,1,tried smoking,drink a lot,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,most of the day,1,1,male,right handed,college/bachelor degree,1
+1,0,1,1,1,1,1,0,1,1,0,0,0,1,1,former smoker,never,1,1,0,1,1,1,0,0,0,1,0,,0,0,1,1,1,0,few hours a day,0,0,female,right handed,secondary school,1
+1,1,0,1,0,0,1,0,0,1,1,1,0,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,0,1,1,0,1,0,1,1,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,1,1,0,1,0,0,0,1,0,1,0,1,1,former smoker,social drinker,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,less than an hour a day,1,1,male,right handed,masters degree,1
+0,1,1,1,1,0,1,1,1,0,1,0,1,1,1,former smoker,never,0,1,1,0,1,1,1,1,0,1,1,1,1,0,1,1,1,0,few hours a day,1,1,male,right handed,doctorate degree,0
+1,1,0,1,1,0,1,0,0,1,0,0,1,1,1,tried smoking,social drinker,1,1,0,1,0,1,1,0,0,0,1,1,1,1,1,1,1,1,less than an hour a day,1,0,male,right handed,secondary school,1
+1,0,0,1,0,1,0,1,1,1,1,0,0,1,1,current smoker,drink a lot,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,most of the day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,tried smoking,social drinker,1,1,1,1,1,1,1,0,0,0,1,0,1,1,1,1,1,1,less than an hour a day,1,0,male,left handed,doctorate degree,1
+1,0,0,1,1,1,1,1,0,1,0,0,1,1,0,former smoker,social drinker,1,1,0,1,1,0,1,0,1,1,1,0,0,1,1,1,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,1,1,1,1,0,0,1,0,1,0,1,1,1,1,current smoker,social drinker,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,0,1,1,0,1,1,1,1,1,1,0,1,1,1,never smoked,social drinker,1,1,0,1,1,0,1,1,1,1,0,0,0,0,0,1,1,1,few hours a day,1,0,male,right handed,secondary school,1
+1,1,0,1,1,1,0,0,1,1,0,1,0,1,0,never smoked,never,1,1,1,1,0,0,0,1,0,0,1,1,1,1,1,1,1,1,few hours a day,1,0,male,right handed,secondary school,1
+1,1,1,1,1,0,0,0,0,1,0,0,1,1,1,current smoker,drink a lot,0,0,0,1,1,0,0,0,0,1,1,0,1,1,1,0,1,1,less than an hour a day,0,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,0,0,1,0,0,1,1,1,former smoker,drink a lot,1,1,1,1,0,1,0,1,1,0,0,1,1,1,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,0,1,0,1,1,0,,1,0,current smoker,social drinker,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,most of the day,0,1,female,right handed,secondary school,1
+1,1,1,1,1,1,0,1,0,1,1,0,1,1,1,tried smoking,social drinker,1,1,1,1,0,1,1,0,0,0,1,1,1,1,0,1,1,1,most of the day,0,0,female,right handed,secondary school,1
+1,1,1,0,0,1,0,1,0,1,1,1,1,1,1,former smoker,social drinker,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,1,1,1,few hours a day,1,1,female,left handed,primary school,1
+0,0,0,1,1,1,1,1,0,1,0,0,0,1,1,tried smoking,social drinker,1,1,1,1,1,1,0,0,1,0,,1,1,1,1,1,1,1,few hours a day,0,1,male,right handed,secondary school,0
+1,1,0,1,0,1,1,1,0,1,0,0,1,1,1,current smoker,never,0,0,0,1,0,0,1,0,0,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,1,0,1,0,0,1,0,0,1,1,1,tried smoking,drink a lot,1,0,0,1,0,1,0,1,0,0,1,0,0,1,0,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,0,0,1,1,1,1,1,0,1,0,0,0,1,0,never smoked,drink a lot,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,most of the day,1,1,male,right handed,secondary school,1
+1,0,1,1,1,1,1,0,0,1,1,1,1,1,0,current smoker,social drinker,0,1,0,1,0,1,1,1,1,0,1,0,1,0,1,0,1,1,few hours a day,0,1,male,right handed,college/bachelor degree,1
+1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,1,0,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,0,0,1,0,1,0,0,0,1,0,0,1,1,1,never smoked,never,1,1,1,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,0,1,1,0,1,0,0,0,1,0,0,1,1,1,never smoked,never,1,1,1,1,0,1,0,0,1,0,0,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,current smoker,social drinker,1,1,0,1,0,0,1,0,1,1,0,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,0,1,1,0,1,1,1,1,1,0,1,0,1,0,tried smoking,social drinker,1,1,1,1,1,1,1,0,1,0,0,1,1,1,1,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,current smoker,drink a lot,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,1,0,1,1,0,1,1,0,former smoker,drink a lot,0,1,1,0,1,0,1,0,0,1,1,0,1,1,1,1,0,0,most of the day,0,1,male,right handed,primary school,1
+1,1,1,1,1,0,0,1,0,1,0,1,1,1,1,never smoked,social drinker,1,1,1,1,0,1,1,1,1,0,1,1,1,1,1,1,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,1,0,1,0,0,0,1,1,1,0,0,1,1,0,never smoked,social drinker,1,1,0,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,less than an hour a day,0,0,female,right handed,secondary school,1
+1,1,0,1,0,1,1,0,1,1,0,0,0,1,1,tried smoking,social drinker,1,0,0,1,0,0,0,1,0,0,0,1,1,1,0,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,0,0,1,1,1,0,1,1,never smoked,never,1,1,1,1,1,1,1,0,1,1,1,1,0,0,1,1,0,0,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,0,1,0,0,1,0,0,1,1,1,current smoker,drink a lot,0,0,1,1,0,0,1,1,1,1,0,0,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,0,1,0,1,0,0,1,1,0,current smoker,never,1,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,1,1,few hours a day,1,0,male,right handed,secondary school,1
+1,1,1,1,0,0,0,0,0,1,0,0,0,1,0,current smoker,social drinker,1,1,1,1,0,0,0,1,1,0,1,1,1,0,1,1,1,1,most of the day,0,1,female,right handed,college/bachelor degree,1
+1,0,1,1,1,1,1,0,0,1,1,0,1,1,1,tried smoking,drink a lot,1,1,1,1,1,1,1,1,0,1,1,0,1,0,1,1,1,1,few hours a day,1,1,female,,college/bachelor degree,1
+1,1,1,1,0,1,0,0,0,1,1,1,1,1,0,tried smoking,drink a lot,1,0,0,1,0,1,1,1,0,1,0,0,0,1,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,1,1,0,1,1,0,0,1,1,0,1,1,0,tried smoking,drink a lot,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+0,1,1,1,1,1,0,1,1,1,0,1,1,1,1,tried smoking,social drinker,0,1,1,1,0,1,0,1,1,0,0,1,0,0,1,0,1,0,few hours a day,0,1,male,right handed,college/bachelor degree,0
+1,1,1,1,1,1,1,1,0,1,1,1,0,1,0,tried smoking,social drinker,1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,0,1,1,few hours a day,1,0,female,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,0,1,1,1,1,0,1,1,former smoker,drink a lot,1,1,0,1,0,1,1,1,1,1,0,0,1,1,1,1,1,1,most of the day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,0,1,0,1,1,1,1,1,1,1,1,1,few hours a day,1,0,female,right handed,,1
+1,0,1,1,0,1,0,1,0,0,1,1,0,1,0,tried smoking,social drinker,0,0,,1,0,0,1,1,1,0,0,1,1,1,1,0,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,0,1,0,1,0,1,0,1,1,0,1,1,0,current smoker,social drinker,1,0,0,1,1,0,1,0,0,1,1,0,1,1,1,0,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,tried smoking,social drinker,1,0,1,1,1,0,1,1,1,0,1,1,1,1,0,1,1,1,less than an hour a day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,1,1,0,1,1,0,0,1,1,0,never smoked,social drinker,1,1,0,1,0,1,1,0,1,1,0,0,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,0,1,1,1,0,1,0,0,1,1,1,tried smoking,social drinker,1,0,1,0,0,1,0,1,1,0,1,0,1,1,0,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,0,1,1,0,1,0,1,1,1,1,1,1,1,0,tried smoking,social drinker,1,1,0,1,0,0,1,1,0,0,0,0,1,1,1,1,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,1,0,1,1,1,0,0,0,1,1,0,1,1,1,former smoker,social drinker,1,0,0,1,0,0,0,1,1,0,0,0,1,1,0,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,1,0,1,0,0,0,1,0,current smoker,drink a lot,1,0,1,1,0,0,1,0,1,0,1,1,1,0,1,0,1,1,few hours a day,1,1,female,right handed,masters degree,1
+1,1,0,1,1,1,0,1,1,1,0,0,1,1,1,former smoker,social drinker,1,1,0,1,0,0,1,1,1,0,0,0,1,1,1,1,1,1,most of the day,1,0,female,right handed,college/bachelor degree,1
+1,1,1,1,1,0,0,0,0,1,0,0,1,1,0,tried smoking,social drinker,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,left handed,secondary school,1
+,1,0,1,0,1,1,1,0,1,0,0,1,1,1,former smoker,social drinker,1,1,1,1,0,1,1,1,1,0,0,1,1,0,1,0,1,1,few hours a day,0,0,female,right handed,college/bachelor degree,
+1,1,0,1,0,1,0,1,0,1,1,1,1,1,1,former smoker,social drinker,1,1,1,1,0,1,1,0,1,1,0,0,1,0,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,0,0,1,1,1,0,1,1,1,1,1,1,1,0,former smoker,never,1,1,0,1,0,0,1,1,1,0,1,1,1,1,0,1,1,1,few hours a day,1,1,male,right handed,masters degree,1
+1,1,0,1,0,1,1,1,0,1,1,0,0,1,1,current smoker,drink a lot,1,0,0,1,0,1,1,,1,1,1,1,1,1,1,1,1,1,most of the day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,0,0,0,1,1,current smoker,social drinker,1,1,1,1,0,1,0,1,1,1,1,1,0,0,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,0,0,1,1,1,0,1,1,tried smoking,drink a lot,1,0,1,1,0,1,1,1,1,1,0,1,1,1,1,1,1,1,few hours a day,0,1,female,left handed,secondary school,1
+1,1,1,1,0,1,1,0,0,1,0,0,1,1,0,former smoker,drink a lot,1,0,1,1,0,1,1,0,0,0,0,1,1,1,0,0,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,0,0,1,0,1,0,1,1,1,1,1,1,1,0,current smoker,never,1,0,0,1,0,0,0,0,1,1,0,0,1,1,0,0,1,1,most of the day,0,1,female,left handed,college/bachelor degree,1
+1,1,0,1,0,0,1,0,0,1,0,1,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,0,1,1,0,0,0,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,0,0,1,1,1,0,1,1,1,1,1,,1,1,current smoker,social drinker,1,1,1,1,0,0,1,0,0,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,0,0,1,1,0,1,0,1,1,0,0,1,1,0,tried smoking,social drinker,1,1,1,1,0,1,1,1,0,0,0,1,1,1,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,,0,1,1,1,1,1,1,0,former smoker,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,0,0,female,right handed,masters degree,1
+1,1,0,1,1,1,1,0,1,1,1,0,1,1,0,tried smoking,drink a lot,1,1,0,1,0,0,1,1,0,1,0,1,1,1,1,1,1,1,few hours a day,1,1,male,left handed,college/bachelor degree,1
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,current smoker,social drinker,1,1,0,1,0,1,1,1,1,1,1,1,0,0,0,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,1,1,0,0,1,1,1,1,1,0,1,1,0,current smoker,drink a lot,1,1,0,1,0,1,1,1,1,0,0,0,1,1,1,0,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,0,0,0,1,1,current smoker,social drinker,1,1,1,1,0,1,1,1,0,0,1,0,1,1,1,1,1,1,most of the day,0,0,male,right handed,secondary school,1
+1,0,1,1,1,1,1,1,0,1,0,0,1,1,1,tried smoking,social drinker,0,1,0,1,1,0,1,,0,1,0,0,0,1,0,1,0,1,few hours a day,1,0,male,right handed,secondary school,1
+1,1,0,1,1,0,0,1,0,1,0,0,1,1,0,tried smoking,drink a lot,1,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,1,1,1,1,0,1,1,1,1,1,0,current smoker,social drinker,1,1,0,1,0,1,1,1,1,0,0,0,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,1,1,1,0,1,1,0,1,1,1,tried smoking,drink a lot,0,,0,1,0,0,0,0,1,0,0,0,1,1,0,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,1,1,1,0,0,0,1,0,current smoker,social drinker,1,1,1,1,0,0,1,1,1,0,0,1,1,1,0,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,1,0,1,0,0,1,0,0,0,1,0,current smoker,social drinker,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,0,male,right handed,secondary school,1
+1,1,1,1,1,1,1,0,1,1,0,0,1,1,1,former smoker,drink a lot,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,1,1,1,1,0,0,1,0,former smoker,social drinker,1,1,1,0,0,0,1,1,1,0,0,1,1,1,0,1,1,1,less than an hour a day,0,1,female,right handed,secondary school,1
+1,0,1,1,0,0,1,1,0,1,1,1,1,0,1,tried smoking,drink a lot,1,1,1,1,1,0,1,0,0,1,1,1,0,0,0,1,1,1,most of the day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,0,1,0,1,1,1,0,0,1,1,1,never smoked,social drinker,1,1,1,1,1,0,1,1,0,0,0,1,1,0,0,1,1,1,few hours a day,1,1,female,right handed,masters degree,1
+1,1,1,1,1,1,0,1,0,1,0,0,1,1,1,current smoker,drink a lot,0,1,1,1,0,,0,1,1,0,0,1,1,0,0,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,0,1,0,0,0,1,0,0,0,1,1,tried smoking,drink a lot,1,0,1,1,1,0,1,1,1,1,1,1,1,0,1,0,0,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,0,1,1,1,1,0,0,1,0,tried smoking,never,1,1,1,1,1,0,0,1,0,0,0,1,1,0,1,1,1,1,few hours a day,1,1,female,right handed,masters degree,1
+1,1,1,1,0,1,0,1,1,1,1,1,1,1,1,tried smoking,drink a lot,1,1,0,1,1,0,1,0,0,1,1,1,1,1,,1,1,1,most of the day,1,1,male,right handed,college/bachelor degree,1
+1,1,1,1,0,1,1,0,0,1,1,1,1,1,1,tried smoking,social drinker,0,1,0,1,1,0,1,1,0,1,0,0,1,0,0,1,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,tried smoking,drink a lot,1,0,0,1,0,1,1,0,1,0,1,1,1,0,0,1,1,,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,0,0,0,1,0,0,1,1,1,current smoker,drink a lot,0,1,0,0,0,0,0,1,0,0,0,1,1,1,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,0,0,1,1,0,0,1,1,former smoker,social drinker,1,0,1,0,0,1,0,1,1,1,1,0,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,1,1,1,1,0,1,1,0,former smoker,social drinker,1,1,0,1,0,0,1,0,1,1,1,0,1,1,1,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,0,1,1,0,1,0,1,1,1,1,1,1,1,1,never smoked,social drinker,1,1,0,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,1,0,1,1,1,0,1,1,1,1,1,1,1,1,never smoked,never,1,1,1,1,1,0,1,1,1,0,1,0,1,1,1,1,1,1,less than an hour a day,1,1,male,left handed,secondary school,1
+1,0,1,1,1,0,1,1,1,0,0,0,1,1,1,tried smoking,social drinker,1,1,0,1,0,1,0,1,1,0,0,0,0,1,1,1,1,1,less than an hour a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,0,0,1,1,1,current smoker,drink a lot,0,1,1,1,0,0,0,1,0,0,0,1,1,1,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,0,0,0,1,1,0,1,1,1,tried smoking,drink a lot,1,1,1,1,1,0,1,1,1,1,1,1,1,0,0,1,0,1,few hours a day,1,1,female,right handed,secondary school,1
+1,0,1,1,0,1,0,0,0,1,1,0,1,1,1,former smoker,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,1,0,1,1,1,1,few hours a day,1,1,female,right handed,primary school,1
+1,1,0,1,0,1,1,1,0,1,0,0,1,1,1,tried smoking,drink a lot,0,1,0,1,0,1,1,1,0,1,1,0,1,0,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,1,1,0,1,1,0,1,1,1,0,1,1,1,tried smoking,drink a lot,1,0,1,1,1,1,1,0,0,1,0,1,1,0,1,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,1,1,0,1,0,0,0,1,0,1,1,1,0,current smoker,social drinker,0,1,1,1,1,0,1,1,1,0,0,1,1,1,0,0,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,0,1,1,1,1,0,1,0,1,0,current smoker,drink a lot,0,0,1,1,0,1,0,1,0,0,0,0,1,1,1,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,0,1,0,1,0,1,0,1,1,1,1,1,1,1,tried smoking,drink a lot,0,1,1,0,1,1,1,1,0,1,1,1,0,1,0,1,1,1,less than an hour a day,0,1,male,right handed,secondary school,1
+1,1,1,1,1,1,0,1,0,1,1,0,1,1,1,tried smoking,social drinker,1,0,0,1,0,0,1,1,1,0,1,1,1,1,0,1,1,1,less than an hour a day,1,1,female,right handed,college/bachelor degree,1
+1,1,1,1,1,1,1,0,0,1,1,0,0,1,1,tried smoking,social drinker,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,few hours a day,1,0,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,0,1,1,0,0,1,1,1,tried smoking,social drinker,1,1,1,1,1,1,1,0,1,1,1,1,1,0,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,1,0,1,1,0,0,1,1,current smoker,social drinker,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,0,1,0,1,1,1,0,0,1,1,0,tried smoking,social drinker,0,1,0,1,0,1,1,1,0,0,0,0,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,0,1,0,1,1,0,1,1,1,0,1,1,1,0,former smoker,social drinker,0,1,1,1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,less than an hour a day,1,0,female,right handed,primary school,1
+1,1,1,1,0,1,1,0,0,1,1,0,1,1,1,tried smoking,social drinker,1,1,0,1,0,0,0,1,1,0,0,0,1,1,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,0,1,0,0,0,0,0,1,1,1,never smoked,social drinker,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,0,1,1,1,0,0,1,0,1,1,0,1,1,0,tried smoking,drink a lot,1,1,0,1,0,0,1,1,1,0,0,0,1,1,0,1,1,1,few hours a day,0,1,male,right handed,college/bachelor degree,1
+1,1,0,1,0,1,0,0,1,1,0,1,0,1,1,current smoker,never,1,0,1,0,0,1,0,0,1,0,1,0,0,1,1,0,1,1,few hours a day,1,0,male,left handed,college/bachelor degree,1
+1,0,0,1,0,1,1,1,0,1,1,1,1,1,1,former smoker,social drinker,1,1,1,1,0,0,1,1,1,0,0,1,0,1,1,1,1,1,less than an hour a day,1,1,female,,masters degree,1
+1,1,0,1,0,1,1,1,1,1,0,1,1,1,0,current smoker,social drinker,1,0,1,1,0,1,0,0,1,1,0,1,1,1,1,0,1,1,few hours a day,1,1,male,left handed,secondary school,1
+1,1,0,1,0,1,1,1,0,1,0,1,1,1,0,tried smoking,social drinker,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,0,1,1,1,0,1,0,0,1,1,0,tried smoking,never,0,1,0,1,0,0,0,1,1,0,0,1,0,1,1,1,1,1,less than an hour a day,0,0,female,right handed,secondary school,1
+1,0,0,1,1,0,1,0,1,1,0,1,1,1,1,never smoked,never,1,1,1,1,0,0,0,1,0,0,0,1,0,1,0,1,1,1,few hours a day,1,1,male,right handed,masters degree,1
+1,0,1,1,0,0,1,1,1,1,0,0,1,1,0,former smoker,drink a lot,1,1,1,1,1,0,1,1,0,0,0,0,1,1,1,0,1,1,few hours a day,0,1,male,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,1,0,1,1,1,0,1,0,tried smoking,social drinker,1,1,1,1,0,0,0,1,1,0,1,1,1,1,0,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,1,0,1,1,0,1,1,0,never smoked,social drinker,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,0,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,0,0,1,1,0,1,1,0,1,0,0,1,1,1,current smoker,drink a lot,1,0,1,1,0,0,0,1,1,1,0,1,1,0,1,1,1,1,less than an hour a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,0,0,0,1,1,1,1,1,1,tried smoking,drink a lot,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,most of the day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,current smoker,social drinker,1,1,0,1,1,0,0,0,1,1,1,1,1,1,1,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,0,1,1,0,1,1,1,1,1,1,tried smoking,drink a lot,1,1,0,0,1,1,0,1,1,1,0,1,1,0,1,0,1,1,less than an hour a day,1,1,female,left handed,masters degree,1
+1,1,0,1,0,1,0,1,1,1,1,0,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,0,1,0,1,1,1,0,0,0,1,1,former smoker,social drinker,1,1,0,1,1,1,1,1,1,1,0,1,1,0,1,1,1,1,few hours a day,1,0,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,0,0,1,1,0,1,1,0,0,former smoker,social drinker,1,1,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,1,less than an hour a day,0,1,female,right handed,secondary school,1
+1,1,0,1,0,0,0,1,1,1,1,1,0,1,1,former smoker,drink a lot,1,1,0,1,0,0,1,1,0,1,0,1,0,1,1,0,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,current smoker,drink a lot,1,0,0,1,0,1,1,1,0,1,1,0,0,0,1,1,0,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,former smoker,social drinker,1,1,1,1,0,0,1,1,0,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,primary school,1
+1,1,1,1,0,0,0,1,0,1,0,0,1,1,1,tried smoking,social drinker,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,0,1,1,1,1,1,1,1,1,1,0,1,1,0,current smoker,social drinker,0,1,0,1,1,1,1,0,0,0,0,0,1,1,1,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,1,1,1,0,0,1,0,1,1,1,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,most of the day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,1,0,0,1,0,1,1,0,former smoker,drink a lot,0,1,1,1,0,1,1,1,1,1,1,1,1,1,1,0,1,1,few hours a day,1,1,female,left handed,secondary school,1
+1,1,1,1,1,0,0,0,0,1,0,0,0,1,1,tried smoking,social drinker,0,1,1,1,0,0,1,1,1,0,0,1,1,1,0,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,1,1,1,0,1,1,1,never smoked,never,1,1,1,0,0,0,1,,1,0,1,0,1,1,1,1,1,1,few hours a day,1,0,male,right handed,primary school,1
+1,1,0,1,1,1,0,1,1,1,0,0,1,1,1,current smoker,social drinker,1,1,0,1,0,1,1,1,1,1,1,0,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,0,0,0,1,1,0,0,1,1,tried smoking,drink a lot,1,1,0,1,1,1,1,1,1,1,1,0,1,0,1,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,1,0,0,0,0,1,1,0,0,1,0,tried smoking,social drinker,1,1,0,1,0,0,1,0,1,0,0,0,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,0,0,0,1,,0,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,0,0,0,1,1,1,1,1,1,1,few hours a day,1,0,female,right handed,secondary school,1
+1,0,1,1,1,0,0,1,1,1,0,1,1,1,1,never smoked,never,0,1,1,1,0,0,1,1,0,0,0,1,1,0,0,1,1,1,few hours a day,1,0,male,right handed,secondary school,1
+1,1,0,1,0,1,1,0,0,1,1,1,1,1,1,tried smoking,social drinker,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,never smoked,social drinker,0,1,1,1,0,1,1,1,0,1,1,1,0,0,1,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,1,1,0,1,1,1,1,1,1,0,0,,1,tried smoking,never,1,1,0,1,0,0,1,1,1,0,1,0,1,1,,1,1,1,few hours a day,1,1,female,right handed,college/bachelor degree,1
+1,1,0,1,1,1,0,0,0,1,1,1,1,1,1,former smoker,social drinker,1,0,1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,1,few hours a day,0,0,female,left handed,primary school,1
+1,1,1,1,1,1,1,1,0,1,1,0,1,1,0,current smoker,social drinker,1,0,1,0,1,0,1,1,0,1,0,1,1,1,1,1,1,1,most of the day,0,1,male,right handed,secondary school,1
+1,1,0,1,0,1,1,0,1,1,1,0,1,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,0,1,0,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,1,0,1,0,0,1,1,0,current smoker,drink a lot,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,0,1,0,0,1,0,0,0,1,1,tried smoking,social drinker,0,1,0,1,1,0,1,1,0,0,1,1,1,1,0,1,1,0,few hours a day,0,0,,right handed,primary school,1
+1,1,0,1,0,1,0,0,0,1,0,0,,1,0,tried smoking,social drinker,1,1,0,0,1,0,1,0,1,1,1,0,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,0,1,1,0,0,1,0,0,1,1,0,tried smoking,social drinker,0,1,0,1,0,1,1,1,1,1,1,1,1,1,1,0,1,0,few hours a day,1,0,female,right handed,secondary school,1
+1,1,1,1,0,1,1,0,1,1,1,1,1,1,1,never smoked,social drinker,1,0,1,1,0,0,0,1,0,1,0,1,0,1,1,1,1,0,few hours a day,0,1,female,right handed,primary school,1
+1,1,0,1,0,0,1,1,1,1,1,1,1,1,1,former smoker,social drinker,1,1,0,1,1,0,1,1,1,1,1,0,0,1,1,0,1,0,few hours a day,1,0,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,1,1,1,0,1,1,0,never smoked,never,1,1,0,1,0,0,0,1,1,0,0,0,1,0,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,,1,1,1,0,1,1,0,1,1,1,1,tried smoking,never,0,1,1,0,0,1,0,1,0,0,1,1,1,0,1,0,1,1,few hours a day,1,1,male,right handed,primary school,1
+1,1,1,1,0,1,0,1,0,1,1,1,1,1,0,current smoker,,1,1,1,1,0,1,1,1,0,1,0,1,1,1,1,1,1,0,few hours a day,1,1,female,right handed,primary school,1
+1,1,0,1,1,1,1,1,0,1,0,0,1,1,1,tried smoking,drink a lot,0,1,0,0,1,1,1,1,0,1,1,1,1,0,1,1,1,1,most of the day,1,0,male,right handed,college/bachelor degree,1
+1,1,0,1,1,1,0,1,1,1,0,0,1,1,0,current smoker,social drinker,1,1,1,1,0,0,1,1,1,0,0,0,1,0,0,0,1,1,less than an hour a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,never smoked,social drinker,1,1,0,1,0,0,1,1,0,0,0,0,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,0,1,1,1,1,0,0,1,1,0,current smoker,drink a lot,1,1,1,1,1,1,1,0,0,0,0,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,0,1,1,0,0,1,0,0,,1,1,tried smoking,social drinker,1,1,0,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,0,1,1,0,0,1,1,0,1,1,1,tried smoking,social drinker,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,1,1,1,0,0,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,0,0,1,0,0,1,1,0,tried smoking,social drinker,0,1,0,0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,most of the day,1,0,female,right handed,secondary school,1
+1,1,1,1,0,1,1,1,0,1,0,0,1,1,1,never smoked,never,0,1,0,1,1,1,0,1,0,1,1,0,1,0,1,1,1,1,most of the day,1,1,male,left handed,currently a primary school pupil,1
+1,1,0,1,1,0,1,0,1,1,0,0,1,1,1,former smoker,drink a lot,1,0,1,0,1,1,0,0,0,1,1,0,1,1,1,1,1,1,most of the day,1,1,male,right handed,masters degree,1
+1,1,1,1,0,1,1,1,1,1,0,0,1,1,1,never smoked,never,1,1,0,1,0,1,1,1,1,0,1,0,1,1,0,0,1,1,few hours a day,0,0,male,right handed,secondary school,1
+1,1,0,1,0,1,1,1,1,1,0,0,0,1,1,tried smoking,social drinker,1,1,0,1,1,1,1,1,0,1,1,0,1,1,1,1,1,0,few hours a day,0,1,female,right handed,secondary school,1
+1,1,0,1,0,1,0,0,1,1,1,1,0,1,0,former smoker,social drinker,1,1,1,1,0,0,1,1,1,0,1,1,1,1,1,0,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,0,1,1,0,0,1,0,1,1,0,0,0,1,1,current smoker,drink a lot,1,1,0,1,0,1,1,1,0,0,0,0,1,1,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,1,1,1,0,,1,0,0,1,0,0,0,1,1,current smoker,drink a lot,0,0,0,1,0,0,0,0,1,1,1,0,1,0,0,1,1,,most of the day,0,1,male,right handed,secondary school,1
+1,0,0,1,1,1,1,1,0,1,0,0,0,1,1,never smoked,social drinker,0,1,1,1,0,1,1,1,0,1,1,1,0,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,0,0,1,1,1,1,tried smoking,social drinker,1,0,0,1,0,0,1,0,1,1,1,1,1,1,1,1,1,1,few hours a day,0,1,female,right handed,college/bachelor degree,1
+1,1,0,1,1,1,0,0,1,1,0,0,1,1,1,current smoker,social drinker,1,1,1,1,0,1,1,1,1,1,1,1,1,0,0,1,1,1,few hours a day,1,0,female,left handed,masters degree,1
+1,1,1,1,0,1,1,1,1,1,1,1,1,1,0,never smoked,social drinker,1,1,1,1,0,0,0,1,0,0,0,1,1,1,0,0,1,1,few hours a day,0,0,female,right handed,masters degree,1
+1,1,0,1,1,1,1,1,1,1,0,1,1,1,1,tried smoking,social drinker,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1,1,1,few hours a day,1,0,male,left handed,secondary school,1
+1,0,0,1,1,1,0,0,1,1,1,0,0,1,1,never smoked,never,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,1,1,1,less than an hour a day,1,0,female,right handed,secondary school,1
+1,1,0,1,1,0,1,1,0,1,0,1,1,1,0,current smoker,social drinker,0,1,0,1,1,1,0,1,1,0,0,1,1,,0,0,0,1,most of the day,0,1,male,left handed,secondary school,1
+1,1,1,1,1,1,1,0,0,1,1,1,0,1,1,tried smoking,social drinker,1,1,0,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,few hours a day,1,1,male,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,tried smoking,social drinker,1,0,,1,,0,0,1,1,1,1,1,1,1,1,1,1,1,few hours a day,0,0,female,right handed,primary school,1
+1,0,0,1,1,1,0,1,0,0,1,0,0,1,0,tried smoking,social drinker,1,0,0,1,1,1,0,0,1,0,0,0,1,1,1,0,1,1,less than an hour a day,1,1,female,left handed,college/bachelor degree,1
+1,0,1,1,1,0,1,1,1,1,1,0,1,1,1,never smoked,social drinker,1,1,0,1,0,0,1,1,1,0,0,0,1,0,0,1,1,1,few hours a day,0,0,male,right handed,primary school,1
+1,1,0,1,1,1,1,0,1,1,0,0,1,1,0,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,0,0,1,1,1,0,0,1,1,few hours a day,1,1,male,left handed,secondary school,1
+1,1,1,1,1,1,1,0,1,1,0,0,1,1,1,former smoker,drink a lot,0,0,0,1,0,1,0,1,0,0,0,0,1,0,1,1,1,1,few hours a day,0,1,male,right handed,college/bachelor degree,1
+1,1,0,1,1,1,1,0,1,1,1,0,0,1,1,current smoker,drink a lot,0,1,0,1,1,0,1,0,1,1,1,0,1,1,1,1,1,1,few hours a day,1,1,male,right handed,masters degree,1
+1,0,1,1,0,0,1,1,1,1,1,0,1,1,1,tried smoking,social drinker,1,1,1,0,0,1,1,1,0,0,1,1,1,0,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,0,1,1,1,0,1,1,1,tried smoking,social drinker,1,0,1,1,0,1,1,1,0,0,1,1,1,1,1,1,1,1,less than an hour a day,0,0,female,right handed,secondary school,1
+1,0,1,1,1,1,1,0,0,1,1,0,0,1,1,current smoker,social drinker,0,1,0,1,1,0,1,1,1,0,1,0,1,0,1,1,1,0,most of the day,0,0,female,right handed,secondary school,1
+1,0,1,1,1,1,1,1,1,1,1,0,1,1,1,current smoker,drink a lot,1,1,1,1,0,1,1,1,0,0,0,0,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,1,0,1,,1,,1,1,current smoker,drink a lot,1,0,1,0,1,0,1,1,1,0,1,1,1,1,0,1,1,,most of the day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,1,1,0,1,1,0,0,1,1,1,tried smoking,social drinker,1,1,0,1,0,0,1,1,1,0,0,0,1,1,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,current smoker,drink a lot,0,1,0,1,0,0,0,1,0,0,0,1,1,0,0,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,0,1,1,1,0,1,1,0,1,1,1,tried smoking,social drinker,1,0,1,1,1,0,1,1,0,1,1,1,1,1,0,1,1,1,few hours a day,1,0,female,right handed,college/bachelor degree,1
+1,1,0,1,0,1,1,1,1,1,1,0,0,1,0,never smoked,social drinker,1,1,1,1,0,1,1,1,0,0,0,1,0,0,1,1,1,1,few hours a day,1,1,male,left handed,secondary school,1
+1,1,1,1,1,1,0,1,0,1,1,1,,1,0,,drink a lot,0,1,0,1,0,0,1,1,1,0,0,0,1,1,1,0,1,1,less than an hour a day,1,1,female,right handed,secondary school,1
+1,1,0,1,1,1,1,0,0,1,1,0,1,1,1,tried smoking,social drinker,0,1,1,1,1,0,1,1,1,1,1,1,0,0,0,1,0,1,most of the day,1,1,female,left handed,secondary school,1
+1,0,1,1,0,0,1,1,1,1,1,0,1,1,1,tried smoking,drink a lot,0,1,0,0,0,1,1,0,0,1,1,0,1,1,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,0,1,1,1,0,1,0,1,1,0,1,1,0,tried smoking,social drinker,1,0,1,1,0,1,1,1,1,0,0,1,1,1,1,0,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,0,0,1,0,1,1,0,1,1,0,current smoker,drink a lot,0,0,1,1,0,0,0,0,0,1,1,0,1,0,1,,1,1,most of the day,0,1,female,right handed,secondary school,1
+1,1,1,1,1,1,0,0,0,1,1,0,1,1,1,former smoker,social drinker,0,1,1,1,0,0,0,1,1,1,1,0,1,0,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,0,0,1,0,1,0,1,1,1,1,1,0,1,0,tried smoking,social drinker,0,0,0,1,1,0,1,0,1,1,1,1,1,1,1,0,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,0,1,1,1,0,1,1,0,1,1,0,1,1,1,current smoker,drink a lot,1,0,0,1,0,0,1,1,0,1,1,0,0,1,0,1,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,0,0,1,1,1,1,1,1,1,1,,1,1,0,tried smoking,drink a lot,1,1,0,1,0,0,1,1,1,1,0,1,1,1,0,0,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,1,1,1,0,1,0,1,0,1,1,1,0,1,0,former smoker,drink a lot,1,1,1,1,0,1,0,1,0,1,0,1,1,1,1,0,1,1,most of the day,1,1,female,right handed,masters degree,1
+1,1,1,1,0,0,1,1,0,1,0,0,1,1,0,former smoker,social drinker,0,0,0,1,1,1,0,1,1,0,0,0,1,1,1,0,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,0,1,1,1,0,1,0,0,1,0,0,0,1,1,tried smoking,social drinker,0,0,0,0,1,1,0,0,0,0,0,0,1,1,1,1,0,1,most of the day,1,0,male,right handed,secondary school,1
+1,1,1,1,1,1,1,1,1,1,0,0,1,1,1,never smoked,never,0,1,1,1,0,0,0,1,1,1,1,1,1,0,1,1,0,1,most of the day,0,1,male,right handed,masters degree,1
+1,1,0,1,0,1,0,1,0,1,0,0,1,1,1,former smoker,social drinker,1,1,0,1,0,1,1,1,0,1,1,0,1,0,0,1,1,1,few hours a day,0,0,female,right handed,secondary school,1
+1,1,1,1,1,1,1,0,0,1,1,1,1,1,1,current smoker,drink a lot,1,1,0,1,0,1,1,1,1,1,0,1,0,0,1,1,1,1,few hours a day,,1,female,right handed,secondary school,1
+1,0,1,1,1,1,1,1,1,1,0,0,1,1,0,tried smoking,never,1,1,1,1,0,0,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,0,1,female,right handed,secondary school,1
+1,0,1,1,0,0,1,0,0,1,0,0,0,1,1,former smoker,social drinker,1,1,1,1,0,0,1,0,0,0,1,0,1,1,1,1,1,1,few hours a day,1,0,male,right handed,secondary school,1
+1,1,0,1,1,1,0,0,0,1,1,1,1,1,1,tried smoking,social drinker,1,0,1,1,0,0,1,1,1,0,0,1,1,1,0,0,1,1,less than an hour a day,0,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,0,1,1,0,1,0,1,0,tried smoking,social drinker,1,1,1,1,0,0,0,1,0,0,0,1,1,0,1,1,1,1,few hours a day,0,1,male,right handed,masters degree,1
+1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,never smoked,social drinker,1,1,0,1,1,0,1,1,1,1,1,1,1,1,1,1,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,1,0,1,1,1,0,0,0,1,0,0,1,1,0,never smoked,never,1,1,1,1,0,1,0,1,0,1,1,1,0,1,1,1,1,1,few hours a day,1,1,female,right handed,primary school,1
+1,1,0,1,1,1,0,1,0,1,0,0,0,1,0,former smoker,never,1,0,1,1,0,0,1,1,1,0,0,0,1,1,0,1,1,1,few hours a day,1,1,female,right handed,primary school,1
+1,0,1,1,1,0,0,0,0,1,0,0,0,1,1,current smoker,social drinker,0,0,0,1,1,1,0,0,1,1,0,0,1,1,1,1,1,1,few hours a day,0,1,male,right handed,secondary school,1
+1,1,0,1,1,1,1,1,0,1,0,1,1,1,0,former smoker,social drinker,1,1,1,1,0,0,1,1,1,1,0,1,1,0,1,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,1,1,1,1,1,0,0,1,1,0,1,1,1,former smoker,social drinker,1,1,1,1,0,1,1,1,1,1,1,1,1,0,1,1,1,1,few hours a day,1,1,male,right handed,secondary school,1
+1,1,1,1,0,1,1,0,0,1,1,0,1,1,1,current smoker,drink a lot,1,0,1,1,1,0,0,1,1,1,0,1,1,1,0,1,1,1,few hours a day,1,1,female,right handed,secondary school,1
+1,1,0,1,0,0,1,0,1,1,0,1,0,1,1,never smoked,social drinker,1,1,1,1,0,1,1,0,1,0,1,1,1,1,0,1,1,1,less than an hour a day,0,0,male,left handed,masters degree,1
+1,1,0,1,1,1,0,1,1,1,0,0,0,1,1,tried smoking,social drinker,0,1,0,1,0,1,1,1,0,1,1,0,0,0,0,1,1,0,most of the day,1,0,female,right handed,secondary school,1
+1,1,0,1,1,1,0,1,0,1,1,0,0,1,1,tried smoking,social drinker,1,1,1,1,0,0,1,1,1,1,1,0,1,1,1,1,1,1,most of the day,0,1,female,right handed,college/bachelor degree,1
+1,1,0,1,0,0,1,0,0,1,0,0,1,1,0,tried smoking,social drinker,1,1,1,1,1,0,1,1,0,1,0,0,0,0,0,0,1,1,few hours a day,0,1,male,right handed,secondary school,1
